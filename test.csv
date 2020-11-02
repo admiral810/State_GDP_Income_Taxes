@@ -1,0 +1,2094 @@
+,year,state,state_po,totalvotes,Winner_Party,Winner_Candidate,rep_candidate,rep_votes,dem_candidate,dem_votes,other_candidate,other_votes
+0,1976,Alabama,AL,1182850.0,Democrat,Jimmy Carter,Gerald Ford,504070.0,Jimmy Carter,659170.0,Other,19610.0
+1,1976,Alaska,AK,123574.0,Republican,Gerald Ford,Gerald Ford,71555.0,Jimmy Carter,44058.0,Other,7961.0
+2,1976,Arizona,AZ,742719.0,Republican,Gerald Ford,Gerald Ford,418642.0,Jimmy Carter,295602.0,Other,28475.0
+3,1976,Arkansas,AR,767535.0,Democrat,Jimmy Carter,Gerald Ford,267903.0,Jimmy Carter,498604.0,Other,1028.0
+4,1976,California,CA,7803770.0,Republican,Gerald Ford,Gerald Ford,3882244.0,Jimmy Carter,3742284.0,Other,179242.0
+5,1976,Colorado,CO,1081440.0,Republican,Gerald Ford,Gerald Ford,584278.0,Jimmy Carter,460801.0,Other,36361.0
+6,1976,Connecticut,CT,1386355.0,Republican,Gerald Ford,Gerald Ford,719261.0,Jimmy Carter,647895.0,Other,19199.0
+7,1976,Delaware,DE,235642.0,Democrat,Jimmy Carter,Gerald Ford,109780.0,Jimmy Carter,122461.0,Other,3401.0
+8,1976,District of Columbia,DC,168830.0,Democrat,Jimmy Carter,Gerald Ford,27873.0,Jimmy Carter,137818.0,Other,3139.0
+9,1976,Florida,FL,3150631.0,Democrat,Jimmy Carter,Gerald Ford,1469531.0,Jimmy Carter,1636000.0,Other,45100.0
+10,1976,Georgia,GA,1463152.0,Democrat,Jimmy Carter,Gerald Ford,483743.0,Jimmy Carter,979409.0,,
+11,1976,Hawaii,HI,291301.0,Democrat,Jimmy Carter,Gerald Ford,140003.0,Jimmy Carter,147375.0,Other,3923.0
+12,1976,Idaho,ID,340932.0,Republican,Gerald Ford,Gerald Ford,204151.0,Jimmy Carter,126549.0,Other,10232.0
+13,1976,Illinois,IL,4721282.0,Republican,Gerald Ford,Gerald Ford,2364269.0,Jimmy Carter,2271295.0,Other,85718.0
+14,1976,Indiana,IN,2220362.0,Republican,Gerald Ford,Gerald Ford,1183958.0,Jimmy Carter,1014714.0,Other,21690.0
+15,1976,Iowa,IA,1279303.0,Republican,Gerald Ford,Gerald Ford,632864.0,Jimmy Carter,619931.0,Other,26508.0
+16,1976,Kansas,KS,957845.0,Republican,Gerald Ford,Gerald Ford,502752.0,Jimmy Carter,430421.0,Other,24672.0
+17,1976,Kentucky,KY,1167142.0,Democrat,Jimmy Carter,Gerald Ford,531852.0,Jimmy Carter,615717.0,Other,19573.0
+18,1976,Louisiana,LA,1277383.0,Democrat,Jimmy Carter,Gerald Ford,587446.0,Jimmy Carter,661365.0,Other,28572.0
+19,1976,Maine,ME,482968.0,Republican,Gerald Ford,Gerald Ford,236320.0,Jimmy Carter,232279.0,Other,14369.0
+20,1976,Maryland,MD,1432273.0,Democrat,Jimmy Carter,Gerald Ford,672661.0,Jimmy Carter,759612.0,,
+21,1976,Massachusetts,MA,2547558.0,Democrat,Jimmy Carter,Gerald Ford,1030276.0,Jimmy Carter,1429475.0,Other,87807.0
+22,1976,Michigan,MI,3651590.0,Republican,Gerald Ford,Gerald Ford,1893742.0,Jimmy Carter,1696714.0,Other,61134.0
+23,1976,Minnesota,MN,1949931.0,Democrat,Jimmy Carter,Gerald Ford,819395.0,Jimmy Carter,1070440.0,Other,60096.0
+24,1976,Mississippi,MS,768390.0,Democrat,Jimmy Carter,Gerald Ford,366846.0,Jimmy Carter,381329.0,Other,20215.0
+25,1976,Missouri,MO,1953600.0,Democrat,Jimmy Carter,Gerald Ford,927443.0,Jimmy Carter,998387.0,Other,27770.0
+26,1976,Montana,MT,328734.0,Republican,Gerald Ford,Gerald Ford,173703.0,Jimmy Carter,149259.0,Other,5772.0
+27,1976,Nebraska,NE,606749.0,Republican,Gerald Ford,Gerald Ford,359219.0,Jimmy Carter,233293.0,Other,14237.0
+28,1976,Nevada,NV,201876.0,Republican,Gerald Ford,Gerald Ford,101273.0,Jimmy Carter,92479.0,Other,8124.0
+29,1976,New Hampshire,NH,339627.0,Republican,Gerald Ford,Gerald Ford,185935.0,Jimmy Carter,147645.0,Other,6047.0
+30,1976,New Jersey,NJ,3014472.0,Republican,Gerald Ford,Gerald Ford,1509688.0,Jimmy Carter,1444653.0,Other,60131.0
+31,1976,New Mexico,NM,416590.0,Republican,Gerald Ford,Gerald Ford,211419.0,Jimmy Carter,201148.0,Other,4023.0
+32,1976,New York,NY,6668262.0,Democrat,Jimmy Carter,Gerald Ford,2825913.0,Jimmy Carter,3244165.0,Other,598184.0
+33,1976,North Carolina,NC,1677906.0,Democrat,Jimmy Carter,Gerald Ford,741960.0,Jimmy Carter,927365.0,Other,8581.0
+34,1976,North Dakota,ND,297308.0,Republican,Gerald Ford,Gerald Ford,153684.0,Jimmy Carter,136078.0,Other,7546.0
+35,1976,Ohio,OH,4110456.0,Democrat,Jimmy Carter,Gerald Ford,2000626.0,Jimmy Carter,2009959.0,Other,99871.0
+36,1976,Oklahoma,OK,1092251.0,Republican,Gerald Ford,Gerald Ford,545708.0,Jimmy Carter,532442.0,Other,14101.0
+37,1976,Oregon,OR,1029876.0,Republican,Gerald Ford,Gerald Ford,492120.0,Jimmy Carter,490407.0,Other,47349.0
+38,1976,Pennsylvania,PA,4620787.0,Democrat,Jimmy Carter,Gerald Ford,2205604.0,Jimmy Carter,2328677.0,Other,86506.0
+39,1976,Rhode Island,RI,410584.0,Democrat,Jimmy Carter,Gerald Ford,181249.0,Jimmy Carter,227636.0,Other,1699.0
+40,1976,South Carolina,SC,802583.0,Democrat,Jimmy Carter,Gerald Ford,346149.0,Jimmy Carter,450807.0,Other,5627.0
+41,1976,South Dakota,SD,300678.0,Republican,Gerald Ford,Gerald Ford,151505.0,Jimmy Carter,147068.0,Other,2105.0
+42,1976,Tennessee,TN,1476346.0,Democrat,Jimmy Carter,Gerald Ford,633969.0,Jimmy Carter,825879.0,Other,16498.0
+43,1976,Texas,TX,4071884.0,Democrat,Jimmy Carter,Gerald Ford,1953300.0,Jimmy Carter,2082319.0,Other,36265.0
+44,1976,Utah,UT,541218.0,Republican,Gerald Ford,Gerald Ford,337908.0,Jimmy Carter,182110.0,Other,21200.0
+45,1976,Vermont,VT,183902.0,Republican,Gerald Ford,Gerald Ford,100387.0,Jimmy Carter,77798.0,Other,5717.0
+46,1976,Virginia,VA,1697094.0,Republican,Gerald Ford,Gerald Ford,836554.0,Jimmy Carter,813896.0,Other,46644.0
+47,1976,Washington,WA,1555534.0,Republican,Gerald Ford,Gerald Ford,777732.0,Jimmy Carter,717323.0,Other,60479.0
+48,1976,West Virginia,WV,750590.0,Democrat,Jimmy Carter,Gerald Ford,314726.0,Jimmy Carter,435864.0,,
+49,1976,Wisconsin,WI,2101336.0,Democrat,Jimmy Carter,Gerald Ford,1004987.0,Jimmy Carter,1040232.0,Other,56117.0
+50,1976,Wyoming,WY,156343.0,Republican,Gerald Ford,Gerald Ford,92717.0,Jimmy Carter,62239.0,Other,1387.0
+51,1980,Alabama,AL,1341929.0,Republican,Ronald Reagan,Ronald Reagan,654192.0,Jimmy Carter,636730.0,Other,51007.0
+52,1980,Alaska,AK,158445.0,Republican,Ronald Reagan,Ronald Reagan,86112.0,Jimmy Carter,41842.0,Other,30491.0
+53,1980,Arizona,AZ,873945.0,Republican,Ronald Reagan,Ronald Reagan,529688.0,Jimmy Carter,246843.0,Other,97414.0
+54,1980,Arkansas,AR,837582.0,Republican,Ronald Reagan,Ronald Reagan,403164.0,Jimmy Carter,398041.0,Other,36377.0
+55,1980,California,CA,8582938.0,Republican,Ronald Reagan,Ronald Reagan,4522994.0,Jimmy Carter,3082943.0,Other,977001.0
+56,1980,Colorado,CO,1184450.0,Republican,Ronald Reagan,Ronald Reagan,652264.0,Jimmy Carter,368009.0,Other,164177.0
+57,1980,Connecticut,CT,1406285.0,Republican,Ronald Reagan,Ronald Reagan,677210.0,Jimmy Carter,541732.0,Other,187343.0
+58,1980,Delaware,DE,235668.0,Republican,Ronald Reagan,Ronald Reagan,111252.0,Jimmy Carter,105754.0,Other,18662.0
+59,1980,District of Columbia,DC,173889.0,Democrat,Jimmy Carter,Ronald Reagan,23313.0,Jimmy Carter,130231.0,Other,20345.0
+60,1980,Florida,FL,3686927.0,Republican,Ronald Reagan,Ronald Reagan,2046951.0,Jimmy Carter,1419475.0,Other,220501.0
+61,1980,Georgia,GA,1596805.0,Democrat,Jimmy Carter,Ronald Reagan,654168.0,Jimmy Carter,890955.0,Other,51682.0
+62,1980,Hawaii,HI,303287.0,Democrat,Jimmy Carter,Ronald Reagan,130112.0,Jimmy Carter,135879.0,Other,37296.0
+63,1980,Idaho,ID,437431.0,Republican,Ronald Reagan,Ronald Reagan,290699.0,Jimmy Carter,110192.0,Other,36540.0
+64,1980,Illinois,IL,4749721.0,Republican,Ronald Reagan,Ronald Reagan,2358049.0,Jimmy Carter,1981413.0,Other,410259.0
+65,1980,Indiana,IN,2242033.0,Republican,Ronald Reagan,Ronald Reagan,1255656.0,Jimmy Carter,844197.0,Other,142180.0
+66,1980,Iowa,IA,1317661.0,Republican,Ronald Reagan,Ronald Reagan,676026.0,Jimmy Carter,508672.0,Other,132963.0
+67,1980,Kansas,KS,979795.0,Republican,Ronald Reagan,Ronald Reagan,566812.0,Jimmy Carter,326150.0,Other,86833.0
+68,1980,Kentucky,KY,1295627.0,Republican,Ronald Reagan,Ronald Reagan,635274.0,Jimmy Carter,617417.0,Other,42936.0
+69,1980,Louisiana,LA,1548591.0,Republican,Ronald Reagan,Ronald Reagan,792853.0,Jimmy Carter,708453.0,Other,47285.0
+70,1980,Maine,ME,523011.0,Republican,Ronald Reagan,Ronald Reagan,238522.0,Jimmy Carter,220974.0,Other,63515.0
+71,1980,Maryland,MD,1540496.0,Democrat,Jimmy Carter,Ronald Reagan,680606.0,Jimmy Carter,726161.0,Other,133729.0
+72,1980,Massachusetts,MA,2524090.0,Republican,Ronald Reagan,Ronald Reagan,1057631.0,Jimmy Carter,1053802.0,Other,412657.0
+73,1980,Michigan,MI,3909725.0,Republican,Ronald Reagan,Ronald Reagan,1915225.0,Jimmy Carter,1661532.0,Other,332968.0
+74,1980,Minnesota,MN,2051916.0,Democrat,Jimmy Carter,Ronald Reagan,873268.0,Jimmy Carter,954173.0,Other,224475.0
+75,1980,Mississippi,MS,891750.0,Republican,Ronald Reagan,Ronald Reagan,441089.0,Jimmy Carter,429281.0,Other,21380.0
+76,1980,Missouri,MO,2099824.0,Republican,Ronald Reagan,Ronald Reagan,1074181.0,Jimmy Carter,931182.0,Other,94461.0
+77,1980,Montana,MT,363952.0,Republican,Ronald Reagan,Ronald Reagan,206814.0,Jimmy Carter,118032.0,Other,39106.0
+78,1980,Nebraska,NE,639533.0,Republican,Ronald Reagan,Ronald Reagan,419214.0,Jimmy Carter,166424.0,Other,53895.0
+79,1980,Nevada,NV,243692.0,Republican,Ronald Reagan,Ronald Reagan,155017.0,Jimmy Carter,66666.0,Other,22009.0
+80,1980,New Hampshire,NH,383990.0,Republican,Ronald Reagan,Ronald Reagan,221705.0,Jimmy Carter,108864.0,Other,53421.0
+81,1980,New Jersey,NJ,2975684.0,Republican,Ronald Reagan,Ronald Reagan,1546557.0,Jimmy Carter,1147364.0,Other,281763.0
+82,1980,New Mexico,NM,456237.0,Republican,Ronald Reagan,Ronald Reagan,250779.0,Jimmy Carter,167826.0,Other,37632.0
+83,1980,New York,NY,6201959.0,Democrat,Jimmy Carter,Ronald Reagan,2637700.0,Jimmy Carter,2728372.0,Other,835887.0
+84,1980,North Carolina,NC,1855833.0,Republican,Ronald Reagan,Ronald Reagan,915018.0,Jimmy Carter,875635.0,Other,65180.0
+85,1980,North Dakota,ND,301116.0,Republican,Ronald Reagan,Ronald Reagan,193695.0,Jimmy Carter,79189.0,Other,28232.0
+86,1980,Ohio,OH,4283603.0,Republican,Ronald Reagan,Ronald Reagan,2206545.0,Jimmy Carter,1752414.0,Other,324644.0
+87,1980,Oklahoma,OK,1149708.0,Republican,Ronald Reagan,Ronald Reagan,695570.0,Jimmy Carter,402026.0,Other,52112.0
+88,1980,Oregon,OR,1181516.0,Republican,Ronald Reagan,Ronald Reagan,571044.0,Jimmy Carter,456890.0,Other,153582.0
+89,1980,Pennsylvania,PA,4561501.0,Republican,Ronald Reagan,Ronald Reagan,2261872.0,Jimmy Carter,1937540.0,Other,362089.0
+90,1980,Rhode Island,RI,415967.0,Democrat,Jimmy Carter,Ronald Reagan,154793.0,Jimmy Carter,198342.0,Other,62832.0
+91,1980,South Carolina,SC,888258.0,Republican,Ronald Reagan,Ronald Reagan,439277.0,Jimmy Carter,428220.0,Other,20761.0
+92,1980,South Dakota,SD,327703.0,Republican,Ronald Reagan,Ronald Reagan,198343.0,Jimmy Carter,103855.0,Other,25505.0
+93,1980,Tennessee,TN,1617616.0,Republican,Ronald Reagan,Ronald Reagan,787761.0,Jimmy Carter,783051.0,Other,46804.0
+94,1980,Texas,TX,4541636.0,Republican,Ronald Reagan,Ronald Reagan,2510705.0,Jimmy Carter,1881147.0,Other,149784.0
+95,1980,Utah,UT,604152.0,Republican,Ronald Reagan,Ronald Reagan,439687.0,Jimmy Carter,124266.0,Other,40199.0
+96,1980,Vermont,VT,213299.0,Republican,Ronald Reagan,Ronald Reagan,94628.0,Jimmy Carter,81952.0,Other,36719.0
+97,1980,Virginia,VA,1866032.0,Republican,Ronald Reagan,Ronald Reagan,989609.0,Jimmy Carter,752174.0,Other,124249.0
+98,1980,Washington,WA,1742394.0,Republican,Ronald Reagan,Ronald Reagan,865244.0,Jimmy Carter,650193.0,Other,226957.0
+99,1980,West Virginia,WV,737715.0,Democrat,Jimmy Carter,Ronald Reagan,334206.0,Jimmy Carter,367462.0,Other,36047.0
+100,1980,Wisconsin,WI,2273221.0,Republican,Ronald Reagan,Ronald Reagan,1088845.0,Jimmy Carter,981584.0,Other,202792.0
+101,1980,Wyoming,WY,176713.0,Republican,Ronald Reagan,Ronald Reagan,110700.0,Jimmy Carter,49427.0,Other,16586.0
+102,1984,Alabama,AL,1441713.0,Republican,Ronald Reagan,Ronald Reagan,872849.0,Walter Mondale,551899.0,Other,16965.0
+103,1984,Alaska,AK,207605.0,Republican,Ronald Reagan,Ronald Reagan,138377.0,Walter Mondale,62007.0,Other,7221.0
+104,1984,Arizona,AZ,1025897.0,Republican,Ronald Reagan,Ronald Reagan,681416.0,Walter Mondale,333854.0,Other,10627.0
+105,1984,Arkansas,AR,884406.0,Republican,Ronald Reagan,Ronald Reagan,534774.0,Walter Mondale,338646.0,Other,10986.0
+106,1984,California,CA,9505041.0,Republican,Ronald Reagan,Ronald Reagan,5467009.0,Walter Mondale,3922519.0,Other,115513.0
+107,1984,Colorado,CO,1295380.0,Republican,Ronald Reagan,Ronald Reagan,821817.0,Walter Mondale,454975.0,Other,18588.0
+108,1984,Connecticut,CT,1466900.0,Republican,Ronald Reagan,Ronald Reagan,890877.0,Walter Mondale,569597.0,Other,6426.0
+109,1984,Delaware,DE,254572.0,Republican,Ronald Reagan,Ronald Reagan,152190.0,Walter Mondale,101656.0,Other,726.0
+110,1984,District of Columbia,DC,211288.0,Democrat,Walter Mondale,Ronald Reagan,29009.0,Walter Mondale,180408.0,Other,1871.0
+111,1984,Florida,FL,4180051.0,Republican,Ronald Reagan,Ronald Reagan,2730350.0,Walter Mondale,1448816.0,Other,885.0
+112,1984,Georgia,GA,1776103.0,Republican,Ronald Reagan,Ronald Reagan,1068722.0,Walter Mondale,706628.0,Other,753.0
+113,1984,Hawaii,HI,335846.0,Republican,Ronald Reagan,Ronald Reagan,185050.0,Walter Mondale,147154.0,Other,3642.0
+114,1984,Idaho,ID,411144.0,Republican,Ronald Reagan,Ronald Reagan,297523.0,Walter Mondale,108510.0,Other,5111.0
+115,1984,Illinois,IL,4819088.0,Republican,Ronald Reagan,Ronald Reagan,2707103.0,Walter Mondale,2086499.0,Other,25486.0
+116,1984,Indiana,IN,2233069.0,Republican,Ronald Reagan,Ronald Reagan,1377230.0,Walter Mondale,841481.0,Other,14358.0
+117,1984,Iowa,IA,1319805.0,Republican,Ronald Reagan,Ronald Reagan,703088.0,Walter Mondale,605620.0,Other,11097.0
+118,1984,Kansas,KS,1021991.0,Republican,Ronald Reagan,Ronald Reagan,677296.0,Walter Mondale,333149.0,Other,11546.0
+119,1984,Kentucky,KY,1369345.0,Republican,Ronald Reagan,Ronald Reagan,821702.0,Walter Mondale,539539.0,Other,8104.0
+120,1984,Louisiana,LA,1706822.0,Republican,Ronald Reagan,Ronald Reagan,1037299.0,Walter Mondale,651586.0,Other,17937.0
+121,1984,Maine,ME,553144.0,Republican,Ronald Reagan,Ronald Reagan,336500.0,Walter Mondale,214515.0,Other,2129.0
+122,1984,Maryland,MD,1675873.0,Republican,Ronald Reagan,Ronald Reagan,879918.0,Walter Mondale,787935.0,Other,8020.0
+123,1984,Massachusetts,MA,2559383.0,Republican,Ronald Reagan,Ronald Reagan,1310936.0,Walter Mondale,1239606.0,Other,8841.0
+124,1984,Michigan,MI,3801658.0,Republican,Ronald Reagan,Ronald Reagan,2251571.0,Walter Mondale,1529638.0,Other,20449.0
+125,1984,Minnesota,MN,2084449.0,Democrat,Walter Mondale,Ronald Reagan,1032603.0,Walter Mondale,1036364.0,Other,15482.0
+126,1984,Mississippi,MS,941104.0,Republican,Ronald Reagan,Ronald Reagan,582377.0,Walter Mondale,352192.0,Other,6535.0
+127,1984,Missouri,MO,2122771.0,Republican,Ronald Reagan,Ronald Reagan,1274188.0,Walter Mondale,848583.0,,
+128,1984,Montana,MT,384377.0,Republican,Ronald Reagan,Ronald Reagan,232450.0,Walter Mondale,146742.0,Other,5185.0
+129,1984,Nebraska,NE,652090.0,Republican,Ronald Reagan,Ronald Reagan,460054.0,Walter Mondale,187866.0,Other,4170.0
+130,1984,Nevada,NV,282717.0,Republican,Ronald Reagan,Ronald Reagan,188770.0,Walter Mondale,91655.0,Other,2292.0
+131,1984,New Hampshire,NH,388904.0,Republican,Ronald Reagan,Ronald Reagan,267050.0,Walter Mondale,120347.0,Other,1507.0
+132,1984,New Jersey,NJ,3217862.0,Republican,Ronald Reagan,Ronald Reagan,1933630.0,Walter Mondale,1261323.0,Other,22909.0
+133,1984,New Mexico,NM,514370.0,Republican,Ronald Reagan,Ronald Reagan,307101.0,Walter Mondale,201769.0,Other,5500.0
+134,1984,New York,NY,6806810.0,Republican,Ronald Reagan,Ronald Reagan,3376519.0,Walter Mondale,3001285.0,Other,429006.0
+135,1984,North Carolina,NC,2175361.0,Republican,Ronald Reagan,Ronald Reagan,1346481.0,Walter Mondale,824287.0,Other,4593.0
+136,1984,North Dakota,ND,308971.0,Republican,Ronald Reagan,Ronald Reagan,200336.0,Walter Mondale,104429.0,Other,4206.0
+137,1984,Ohio,OH,4563235.0,Republican,Ronald Reagan,Ronald Reagan,2678559.0,Walter Mondale,1825440.0,Other,59236.0
+138,1984,Oklahoma,OK,1255676.0,Republican,Ronald Reagan,Ronald Reagan,861530.0,Walter Mondale,385080.0,Other,9066.0
+139,1984,Oregon,OR,1226527.0,Republican,Ronald Reagan,Ronald Reagan,685700.0,Walter Mondale,536479.0,Other,4348.0
+140,1984,Pennsylvania,PA,4844903.0,Republican,Ronald Reagan,Ronald Reagan,2584323.0,Walter Mondale,2228131.0,Other,32449.0
+141,1984,Rhode Island,RI,410489.0,Republican,Ronald Reagan,Ronald Reagan,212080.0,Walter Mondale,197106.0,Other,1303.0
+142,1984,South Carolina,SC,968529.0,Republican,Ronald Reagan,Ronald Reagan,615539.0,Walter Mondale,344459.0,Other,8531.0
+143,1984,South Dakota,SD,317867.0,Republican,Ronald Reagan,Ronald Reagan,200267.0,Walter Mondale,116113.0,Other,1487.0
+144,1984,Tennessee,TN,1711993.0,Republican,Ronald Reagan,Ronald Reagan,990212.0,Walter Mondale,711714.0,Other,10067.0
+145,1984,Texas,TX,5397571.0,Republican,Ronald Reagan,Ronald Reagan,3433428.0,Walter Mondale,1949276.0,Other,14867.0
+146,1984,Utah,UT,629656.0,Republican,Ronald Reagan,Ronald Reagan,469105.0,Walter Mondale,155369.0,Other,5182.0
+147,1984,Vermont,VT,234561.0,Republican,Ronald Reagan,Ronald Reagan,135865.0,Walter Mondale,95730.0,Other,2966.0
+148,1984,Virginia,VA,2146635.0,Republican,Ronald Reagan,Ronald Reagan,1337078.0,Walter Mondale,796250.0,Other,13307.0
+149,1984,Washington,WA,1874910.0,Republican,Ronald Reagan,Ronald Reagan,1051670.0,Walter Mondale,798352.0,Other,24888.0
+150,1984,West Virginia,WV,735742.0,Republican,Ronald Reagan,Ronald Reagan,405483.0,Walter Mondale,328125.0,Other,2134.0
+151,1984,Wisconsin,WI,2211689.0,Republican,Ronald Reagan,Ronald Reagan,1198584.0,Walter Mondale,995740.0,Other,17365.0
+152,1984,Wyoming,WY,188968.0,Republican,Ronald Reagan,Ronald Reagan,133241.0,Walter Mondale,53370.0,Other,2357.0
+153,1988,Alabama,AL,1378476.0,Republican,George H.W. Bush,George H.W. Bush,815576.0,Michael Dukakis,549506.0,Other,13394.0
+154,1988,Alaska,AK,200116.0,Republican,George H.W. Bush,George H.W. Bush,119251.0,Michael Dukakis,72584.0,Other,8281.0
+155,1988,Arizona,AZ,1171873.0,Republican,George H.W. Bush,George H.W. Bush,702541.0,Michael Dukakis,454029.0,Other,15303.0
+156,1988,Arkansas,AR,827738.0,Republican,George H.W. Bush,George H.W. Bush,466578.0,Michael Dukakis,349237.0,Other,11923.0
+157,1988,California,CA,9887065.0,Republican,George H.W. Bush,George H.W. Bush,5054917.0,Michael Dukakis,4702233.0,Other,129915.0
+158,1988,Colorado,CO,1372394.0,Republican,George H.W. Bush,George H.W. Bush,728177.0,Michael Dukakis,621453.0,Other,22764.0
+159,1988,Connecticut,CT,1443394.0,Republican,George H.W. Bush,George H.W. Bush,750241.0,Michael Dukakis,676584.0,Other,16569.0
+160,1988,Delaware,DE,249891.0,Republican,George H.W. Bush,George H.W. Bush,139639.0,Michael Dukakis,108647.0,Other,1605.0
+161,1988,District of Columbia,DC,192877.0,Democrat,Michael Dukakis,George H.W. Bush,27590.0,Michael Dukakis,159407.0,Other,5880.0
+162,1988,Florida,FL,4302313.0,Republican,George H.W. Bush,George H.W. Bush,2618885.0,Michael Dukakis,1656701.0,Other,26727.0
+163,1988,Georgia,GA,1809672.0,Republican,George H.W. Bush,George H.W. Bush,1081331.0,Michael Dukakis,714792.0,Other,13549.0
+164,1988,Hawaii,HI,354461.0,Democrat,Michael Dukakis,George H.W. Bush,158625.0,Michael Dukakis,192364.0,Other,3472.0
+165,1988,Idaho,ID,408968.0,Republican,George H.W. Bush,George H.W. Bush,253881.0,Michael Dukakis,147272.0,Other,7815.0
+166,1988,Illinois,IL,4559120.0,Republican,George H.W. Bush,George H.W. Bush,2310939.0,Michael Dukakis,2215940.0,Other,32241.0
+167,1988,Indiana,IN,2168621.0,Republican,George H.W. Bush,George H.W. Bush,1297763.0,Michael Dukakis,860643.0,Other,10215.0
+168,1988,Iowa,IA,1225614.0,Democrat,Michael Dukakis,George H.W. Bush,545355.0,Michael Dukakis,670557.0,Other,9702.0
+169,1988,Kansas,KS,993044.0,Republican,George H.W. Bush,George H.W. Bush,554049.0,Michael Dukakis,422636.0,Other,16359.0
+170,1988,Kentucky,KY,1322517.0,Republican,George H.W. Bush,George H.W. Bush,734281.0,Michael Dukakis,580368.0,Other,7868.0
+171,1988,Louisiana,LA,1628202.0,Republican,George H.W. Bush,George H.W. Bush,883702.0,Michael Dukakis,717460.0,Other,27040.0
+172,1988,Maine,ME,555035.0,Republican,George H.W. Bush,George H.W. Bush,307131.0,Michael Dukakis,243569.0,Other,4335.0
+173,1988,Maryland,MD,1714358.0,Republican,George H.W. Bush,George H.W. Bush,876167.0,Michael Dukakis,826304.0,Other,11887.0
+174,1988,Massachusetts,MA,2632801.0,Democrat,Michael Dukakis,George H.W. Bush,1194635.0,Michael Dukakis,1401415.0,Other,36751.0
+175,1988,Michigan,MI,3669163.0,Republican,George H.W. Bush,George H.W. Bush,1965486.0,Michael Dukakis,1675783.0,Other,27894.0
+176,1988,Minnesota,MN,2096790.0,Democrat,Michael Dukakis,George H.W. Bush,962337.0,Michael Dukakis,1109471.0,Other,24982.0
+177,1988,Mississippi,MS,931527.0,Republican,George H.W. Bush,George H.W. Bush,557890.0,Michael Dukakis,363921.0,Other,9716.0
+178,1988,Missouri,MO,2093228.0,Republican,George H.W. Bush,George H.W. Bush,1084953.0,Michael Dukakis,1001619.0,Other,6656.0
+179,1988,Montana,MT,365674.0,Republican,George H.W. Bush,George H.W. Bush,190412.0,Michael Dukakis,168936.0,Other,6326.0
+180,1988,Nebraska,NE,661465.0,Republican,George H.W. Bush,George H.W. Bush,397956.0,Michael Dukakis,259235.0,Other,4274.0
+181,1988,Nevada,NV,343133.0,Republican,George H.W. Bush,George H.W. Bush,206040.0,Michael Dukakis,132738.0,Other,4355.0
+182,1988,New Hampshire,NH,450525.0,Republican,George H.W. Bush,George H.W. Bush,281537.0,Michael Dukakis,163696.0,Other,5292.0
+183,1988,New Jersey,NJ,3099553.0,Republican,George H.W. Bush,George H.W. Bush,1743192.0,Michael Dukakis,1320352.0,Other,36009.0
+184,1988,New Mexico,NM,521387.0,Republican,George H.W. Bush,George H.W. Bush,270341.0,Michael Dukakis,244497.0,Other,6549.0
+185,1988,New York,NY,6485683.0,Democrat,Michael Dukakis,George H.W. Bush,2838414.0,Michael Dukakis,3255487.0,Other,391782.0
+186,1988,North Carolina,NC,2134370.0,Republican,George H.W. Bush,George H.W. Bush,1237258.0,Michael Dukakis,890167.0,Other,6945.0
+187,1988,North Dakota,ND,297261.0,Republican,George H.W. Bush,George H.W. Bush,166559.0,Michael Dukakis,127739.0,Other,2963.0
+188,1988,Ohio,OH,4393585.0,Republican,George H.W. Bush,George H.W. Bush,2416549.0,Michael Dukakis,1939629.0,Other,37407.0
+189,1988,Oklahoma,OK,1171036.0,Republican,George H.W. Bush,George H.W. Bush,678367.0,Michael Dukakis,483423.0,Other,9246.0
+190,1988,Oregon,OR,1201694.0,Democrat,Michael Dukakis,George H.W. Bush,560126.0,Michael Dukakis,616206.0,Other,25362.0
+191,1988,Pennsylvania,PA,4536251.0,Republican,George H.W. Bush,George H.W. Bush,2300087.0,Michael Dukakis,2194944.0,Other,41220.0
+192,1988,Rhode Island,RI,404622.0,Democrat,Michael Dukakis,George H.W. Bush,177761.0,Michael Dukakis,225123.0,Other,1738.0
+193,1988,South Carolina,SC,986009.0,Republican,George H.W. Bush,George H.W. Bush,606443.0,Michael Dukakis,370554.0,Other,9012.0
+194,1988,South Dakota,SD,312991.0,Republican,George H.W. Bush,George H.W. Bush,165415.0,Michael Dukakis,145560.0,Other,2016.0
+195,1988,Tennessee,TN,1636250.0,Republican,George H.W. Bush,George H.W. Bush,947233.0,Michael Dukakis,679794.0,Other,9223.0
+196,1988,Texas,TX,5427410.0,Republican,George H.W. Bush,George H.W. Bush,3036829.0,Michael Dukakis,2352748.0,Other,37833.0
+197,1988,Utah,UT,647008.0,Republican,George H.W. Bush,George H.W. Bush,428442.0,Michael Dukakis,207343.0,Other,11223.0
+198,1988,Vermont,VT,243328.0,Republican,George H.W. Bush,George H.W. Bush,124331.0,Michael Dukakis,115775.0,Other,3222.0
+199,1988,Virginia,VA,2191609.0,Republican,George H.W. Bush,George H.W. Bush,1309162.0,Michael Dukakis,859799.0,Other,22648.0
+200,1988,Washington,WA,1865253.0,Democrat,Michael Dukakis,George H.W. Bush,903835.0,Michael Dukakis,933516.0,Other,27902.0
+201,1988,West Virginia,WV,653311.0,Democrat,Michael Dukakis,George H.W. Bush,310065.0,Michael Dukakis,341016.0,Other,2230.0
+202,1988,Wisconsin,WI,2191608.0,Democrat,Michael Dukakis,George H.W. Bush,1047499.0,Michael Dukakis,1126794.0,Other,17315.0
+203,1988,Wyoming,WY,176551.0,Republican,George H.W. Bush,George H.W. Bush,106867.0,Michael Dukakis,67113.0,Other,2571.0
+204,1992,Alabama,AL,1688060.0,Republican,George H.W. Bush,George H.W. Bush,804283.0,Bill Clinton,690080.0,Other,193697.0
+205,1992,Alaska,AK,258506.0,Republican,George H.W. Bush,George H.W. Bush,102000.0,Bill Clinton,78294.0,Other,78212.0
+206,1992,Arizona,AZ,1486975.0,Republican,George H.W. Bush,George H.W. Bush,572086.0,Bill Clinton,543050.0,Other,371839.0
+207,1992,Arkansas,AR,950653.0,Democrat,Bill Clinton,George H.W. Bush,337324.0,Bill Clinton,505823.0,Other,107506.0
+208,1992,California,CA,11131721.0,Democrat,Bill Clinton,George H.W. Bush,3630574.0,Bill Clinton,5121325.0,Other,2379822.0
+209,1992,Colorado,CO,1569180.0,Democrat,Bill Clinton,George H.W. Bush,562850.0,Bill Clinton,629681.0,Other,376649.0
+210,1992,Connecticut,CT,1616156.0,Democrat,Bill Clinton,George H.W. Bush,578313.0,Bill Clinton,682318.0,Other,355525.0
+211,1992,Delaware,DE,289620.0,Democrat,Bill Clinton,George H.W. Bush,102313.0,Bill Clinton,126054.0,Other,61253.0
+212,1992,District of Columbia,DC,227572.0,Democrat,Bill Clinton,George H.W. Bush,20698.0,Bill Clinton,192619.0,Other,14255.0
+213,1992,Florida,FL,5313392.0,Republican,George H.W. Bush,George H.W. Bush,2173310.0,Bill Clinton,2071698.0,Other,1068384.0
+214,1992,Georgia,GA,2321133.0,Democrat,Bill Clinton,George H.W. Bush,995252.0,Bill Clinton,1008966.0,Other,316915.0
+215,1992,Hawaii,HI,372842.0,Democrat,Bill Clinton,George H.W. Bush,136822.0,Bill Clinton,179310.0,Other,56710.0
+216,1992,Idaho,ID,482114.0,Republican,George H.W. Bush,George H.W. Bush,202645.0,Bill Clinton,137013.0,Other,142456.0
+217,1992,Illinois,IL,5050157.0,Democrat,Bill Clinton,George H.W. Bush,1734096.0,Bill Clinton,2453350.0,Other,862711.0
+218,1992,Indiana,IN,2305871.0,Republican,George H.W. Bush,George H.W. Bush,989375.0,Bill Clinton,848420.0,Other,468076.0
+219,1992,Iowa,IA,1354607.0,Democrat,Bill Clinton,George H.W. Bush,504891.0,Bill Clinton,586353.0,Other,263363.0
+220,1992,Kansas,KS,1157236.0,Republican,George H.W. Bush,George H.W. Bush,449951.0,Bill Clinton,390434.0,Other,316851.0
+221,1992,Kentucky,KY,1492900.0,Democrat,Bill Clinton,George H.W. Bush,617178.0,Bill Clinton,665104.0,Other,210618.0
+222,1992,Louisiana,LA,1790017.0,Democrat,Bill Clinton,George H.W. Bush,733386.0,Bill Clinton,815971.0,Other,240660.0
+223,1992,Maine,ME,679499.0,Democrat,Bill Clinton,George H.W. Bush,206504.0,Bill Clinton,263420.0,Other,209575.0
+224,1992,Maryland,MD,1984580.0,Democrat,Bill Clinton,George H.W. Bush,707094.0,Bill Clinton,988571.0,Other,288915.0
+225,1992,Massachusetts,MA,2773664.0,Democrat,Bill Clinton,George H.W. Bush,805039.0,Bill Clinton,1318639.0,Other,649986.0
+226,1992,Michigan,MI,4274673.0,Democrat,Bill Clinton,George H.W. Bush,1554940.0,Bill Clinton,1871182.0,Other,848551.0
+227,1992,Minnesota,MN,2347948.0,Democrat,Bill Clinton,George H.W. Bush,747841.0,Bill Clinton,1020997.0,Other,579110.0
+228,1992,Mississippi,MS,981793.0,Republican,George H.W. Bush,George H.W. Bush,487793.0,Bill Clinton,400258.0,Other,93742.0
+229,1992,Missouri,MO,2391270.0,Democrat,Bill Clinton,George H.W. Bush,811159.0,Bill Clinton,1053873.0,Other,526238.0
+230,1992,Montana,MT,410583.0,Democrat,Bill Clinton,George H.W. Bush,144207.0,Bill Clinton,154507.0,Other,111869.0
+231,1992,Nebraska,NE,737546.0,Republican,George H.W. Bush,George H.W. Bush,343678.0,Bill Clinton,216864.0,Other,177004.0
+232,1992,Nevada,NV,506318.0,Democrat,Bill Clinton,George H.W. Bush,175828.0,Bill Clinton,189148.0,Other,141342.0
+233,1992,New Hampshire,NH,537215.0,Democrat,Bill Clinton,George H.W. Bush,202484.0,Bill Clinton,209040.0,Other,125691.0
+234,1992,New Jersey,NJ,3343594.0,Democrat,Bill Clinton,George H.W. Bush,1356865.0,Bill Clinton,1436206.0,Other,550523.0
+235,1992,New Mexico,NM,569986.0,Democrat,Bill Clinton,George H.W. Bush,212824.0,Bill Clinton,261617.0,Other,95545.0
+236,1992,New York,NY,7079432.0,Democrat,Bill Clinton,George H.W. Bush,2041690.0,Bill Clinton,3346894.0,Other,1690848.0
+237,1992,North Carolina,NC,2611850.0,Republican,George H.W. Bush,George H.W. Bush,1134661.0,Bill Clinton,1114042.0,Other,363147.0
+238,1992,North Dakota,ND,308133.0,Republican,George H.W. Bush,George H.W. Bush,136244.0,Bill Clinton,99168.0,Other,72721.0
+239,1992,Ohio,OH,4939967.0,Democrat,Bill Clinton,George H.W. Bush,1894310.0,Bill Clinton,1984942.0,Other,1060715.0
+240,1992,Oklahoma,OK,1390359.0,Republican,George H.W. Bush,George H.W. Bush,592929.0,Bill Clinton,473066.0,Other,324364.0
+241,1992,Oregon,OR,1462643.0,Democrat,Bill Clinton,George H.W. Bush,475757.0,Bill Clinton,621314.0,Other,365572.0
+242,1992,Pennsylvania,PA,4959810.0,Democrat,Bill Clinton,George H.W. Bush,1791841.0,Bill Clinton,2239164.0,Other,928805.0
+243,1992,Rhode Island,RI,453365.0,Democrat,Bill Clinton,George H.W. Bush,131601.0,Bill Clinton,213299.0,Other,108465.0
+244,1992,South Carolina,SC,1228912.0,Republican,George H.W. Bush,George H.W. Bush,577507.0,Bill Clinton,525514.0,Other,125891.0
+245,1992,South Dakota,SD,336254.0,Republican,George H.W. Bush,George H.W. Bush,136718.0,Bill Clinton,124888.0,Other,74648.0
+246,1992,Tennessee,TN,1982638.0,Democrat,Bill Clinton,George H.W. Bush,841300.0,Bill Clinton,933521.0,Other,207817.0
+247,1992,Texas,TX,6154018.0,Republican,George H.W. Bush,George H.W. Bush,2496071.0,Bill Clinton,2281815.0,Other,1376132.0
+248,1992,Utah,UT,743998.0,Republican,George H.W. Bush,George H.W. Bush,322632.0,Bill Clinton,183429.0,Other,237937.0
+249,1992,Vermont,VT,289701.0,Democrat,Bill Clinton,George H.W. Bush,88122.0,Bill Clinton,133592.0,Other,67987.0
+250,1992,Virginia,VA,2559129.0,Republican,George H.W. Bush,George H.W. Bush,1150517.0,Bill Clinton,1038650.0,Other,369962.0
+251,1992,Washington,WA,2287565.0,Democrat,Bill Clinton,George H.W. Bush,731234.0,Bill Clinton,993037.0,Other,563294.0
+252,1992,West Virginia,WV,683677.0,Democrat,Bill Clinton,George H.W. Bush,241974.0,Bill Clinton,331001.0,Other,110702.0
+253,1992,Wisconsin,WI,2531064.0,Democrat,Bill Clinton,George H.W. Bush,930855.0,Bill Clinton,1041066.0,Other,559143.0
+254,1992,Wyoming,WY,199884.0,Republican,George H.W. Bush,George H.W. Bush,79347.0,Bill Clinton,68160.0,Other,52377.0
+255,1996,Alabama,AL,1534349.0,Republican,Robert Dole,Robert Dole,769044.0,Bill Clinton,662165.0,Other,103140.0
+256,1996,Alaska,AK,241620.0,Republican,Robert Dole,Robert Dole,122746.0,Bill Clinton,80380.0,Other,38494.0
+257,1996,Arizona,AZ,1404405.0,Democrat,Bill Clinton,Robert Dole,622073.0,Bill Clinton,653288.0,Other,129044.0
+258,1996,Arkansas,AR,884262.0,Democrat,Bill Clinton,Robert Dole,325416.0,Bill Clinton,475171.0,Other,83675.0
+259,1996,California,CA,10019469.0,Democrat,Bill Clinton,Robert Dole,3828381.0,Bill Clinton,5119835.0,Other,1071253.0
+260,1996,Colorado,CO,1510702.0,Republican,Robert Dole,Robert Dole,691848.0,Bill Clinton,671152.0,Other,147702.0
+261,1996,Connecticut,CT,1392614.0,Democrat,Bill Clinton,Robert Dole,483109.0,Bill Clinton,735740.0,Other,173765.0
+262,1996,Delaware,DE,270810.0,Democrat,Bill Clinton,Robert Dole,99062.0,Bill Clinton,140355.0,Other,31393.0
+263,1996,District of Columbia,DC,185726.0,Democrat,Bill Clinton,Robert Dole,17339.0,Bill Clinton,158220.0,Other,10167.0
+264,1996,Florida,FL,5303154.0,Democrat,Bill Clinton,Robert Dole,2244536.0,Bill Clinton,2546870.0,Other,511748.0
+265,1996,Georgia,GA,2298899.0,Republican,Robert Dole,Robert Dole,1080843.0,Bill Clinton,1053849.0,Other,164207.0
+266,1996,Hawaii,HI,360120.0,Democrat,Bill Clinton,Robert Dole,113943.0,Bill Clinton,205012.0,Other,41165.0
+267,1996,Idaho,ID,491711.0,Republican,Robert Dole,Robert Dole,256595.0,Bill Clinton,165443.0,Other,69673.0
+268,1996,Illinois,IL,4311391.0,Democrat,Bill Clinton,Robert Dole,1587021.0,Bill Clinton,2341744.0,Other,382626.0
+269,1996,Indiana,IN,2135431.0,Republican,Robert Dole,Robert Dole,1006693.0,Bill Clinton,887424.0,Other,241314.0
+270,1996,Iowa,IA,1234075.0,Democrat,Bill Clinton,Robert Dole,492644.0,Bill Clinton,620258.0,Other,121173.0
+271,1996,Kansas,KS,1074300.0,Republican,Robert Dole,Robert Dole,583245.0,Bill Clinton,387659.0,Other,103396.0
+272,1996,Kentucky,KY,1388708.0,Democrat,Bill Clinton,Robert Dole,623283.0,Bill Clinton,636614.0,Other,128811.0
+273,1996,Louisiana,LA,1783959.0,Democrat,Bill Clinton,Robert Dole,712586.0,Bill Clinton,927837.0,Other,143536.0
+274,1996,Maine,ME,605897.0,Democrat,Bill Clinton,Robert Dole,186378.0,Bill Clinton,312788.0,Other,106731.0
+275,1996,Maryland,MD,1780870.0,Democrat,Bill Clinton,Robert Dole,681530.0,Bill Clinton,966207.0,Other,133133.0
+276,1996,Massachusetts,MA,2556459.0,Democrat,Bill Clinton,Robert Dole,718058.0,Bill Clinton,1571509.0,Other,266892.0
+277,1996,Michigan,MI,3848844.0,Democrat,Bill Clinton,Robert Dole,1481212.0,Bill Clinton,1989653.0,Other,377979.0
+278,1996,Minnesota,MN,2192492.0,Democrat,Bill Clinton,Robert Dole,766395.0,Bill Clinton,1120380.0,Other,305717.0
+279,1996,Mississippi,MS,893857.0,Republican,Robert Dole,Robert Dole,439838.0,Bill Clinton,394022.0,Other,59997.0
+280,1996,Missouri,MO,2158065.0,Democrat,Bill Clinton,Robert Dole,890016.0,Bill Clinton,1025935.0,Other,242114.0
+281,1996,Montana,MT,407083.0,Republican,Robert Dole,Robert Dole,179652.0,Bill Clinton,167922.0,Other,59509.0
+282,1996,Nebraska,NE,677415.0,Republican,Robert Dole,Robert Dole,363467.0,Bill Clinton,236761.0,Other,77187.0
+283,1996,Nevada,NV,464279.0,Democrat,Bill Clinton,Robert Dole,199244.0,Bill Clinton,203974.0,Other,61061.0
+284,1996,New Hampshire,NH,496597.0,Democrat,Bill Clinton,Robert Dole,196486.0,Bill Clinton,246166.0,Other,53945.0
+285,1996,New Jersey,NJ,3075860.0,Democrat,Bill Clinton,Robert Dole,1103099.0,Bill Clinton,1652361.0,Other,320400.0
+286,1996,New Mexico,NM,556074.0,Democrat,Bill Clinton,Robert Dole,232751.0,Bill Clinton,273495.0,Other,49828.0
+287,1996,New York,NY,6439129.0,Democrat,Bill Clinton,Robert Dole,1738707.0,Bill Clinton,3649630.0,Other,1050792.0
+288,1996,North Carolina,NC,2515807.0,Republican,Robert Dole,Robert Dole,1225938.0,Bill Clinton,1107849.0,Other,182020.0
+289,1996,North Dakota,ND,266411.0,Republican,Robert Dole,Robert Dole,125050.0,Bill Clinton,106905.0,Other,34456.0
+290,1996,Ohio,OH,4534434.0,Democrat,Bill Clinton,Robert Dole,1859883.0,Bill Clinton,2148222.0,Other,526329.0
+291,1996,Oklahoma,OK,1206713.0,Republican,Robert Dole,Robert Dole,582315.0,Bill Clinton,488105.0,Other,136293.0
+292,1996,Oregon,OR,1377760.0,Democrat,Bill Clinton,Robert Dole,538152.0,Bill Clinton,649641.0,Other,189967.0
+293,1996,Pennsylvania,PA,4501307.0,Democrat,Bill Clinton,Robert Dole,1801169.0,Bill Clinton,2215819.0,Other,484319.0
+294,1996,Rhode Island,RI,390247.0,Democrat,Bill Clinton,Robert Dole,104683.0,Bill Clinton,233050.0,Other,52514.0
+295,1996,South Carolina,SC,1150182.0,Republican,Robert Dole,Robert Dole,573339.0,Bill Clinton,506152.0,Other,70691.0
+296,1996,South Dakota,SD,323826.0,Republican,Robert Dole,Robert Dole,150543.0,Bill Clinton,139333.0,Other,33950.0
+297,1996,Tennessee,TN,1894105.0,Democrat,Bill Clinton,Robert Dole,863530.0,Bill Clinton,909146.0,Other,121429.0
+298,1996,Texas,TX,5611644.0,Republican,Robert Dole,Robert Dole,2736167.0,Bill Clinton,2459683.0,Other,415794.0
+299,1996,Utah,UT,665629.0,Republican,Robert Dole,Robert Dole,361911.0,Bill Clinton,221633.0,Other,82085.0
+300,1996,Vermont,VT,258449.0,Democrat,Bill Clinton,Robert Dole,80352.0,Bill Clinton,137894.0,Other,40203.0
+301,1996,Virginia,VA,2416642.0,Republican,Robert Dole,Robert Dole,1138350.0,Bill Clinton,1091060.0,Other,187232.0
+302,1996,Washington,WA,2253837.0,Democrat,Bill Clinton,Robert Dole,840712.0,Bill Clinton,1123323.0,Other,289802.0
+303,1996,West Virginia,WV,636459.0,Democrat,Bill Clinton,Robert Dole,233946.0,Bill Clinton,327812.0,Other,74701.0
+304,1996,Wisconsin,WI,2196169.0,Democrat,Bill Clinton,Robert Dole,845029.0,Bill Clinton,1071971.0,Other,279169.0
+305,1996,Wyoming,WY,211571.0,Republican,Robert Dole,Robert Dole,105388.0,Bill Clinton,77934.0,Other,28249.0
+306,2000,Alabama,AL,1666272.0,Republican,George W. Bush,George W. Bush,941173.0,Al Gore,692611.0,Other,32488.0
+307,2000,Alaska,AK,285560.0,Republican,George W. Bush,George W. Bush,167398.0,Al Gore,79004.0,Other,39158.0
+308,2000,Arizona,AZ,1532016.0,Republican,George W. Bush,George W. Bush,781652.0,Al Gore,685341.0,Other,65023.0
+309,2000,Arkansas,AR,921781.0,Republican,George W. Bush,George W. Bush,472940.0,Al Gore,422768.0,Other,26073.0
+310,2000,California,CA,10965822.0,Democrat,Al Gore,George W. Bush,4567429.0,Al Gore,5861203.0,Other,537190.0
+311,2000,Colorado,CO,1741368.0,Republican,George W. Bush,George W. Bush,883748.0,Al Gore,738227.0,Other,119393.0
+312,2000,Connecticut,CT,1459525.0,Democrat,Al Gore,George W. Bush,561094.0,Al Gore,816015.0,Other,82416.0
+313,2000,Delaware,DE,327529.0,Democrat,Al Gore,George W. Bush,137288.0,Al Gore,180068.0,Other,10173.0
+314,2000,District of Columbia,DC,201894.0,Democrat,Al Gore,George W. Bush,18073.0,Al Gore,171923.0,Other,11898.0
+315,2000,Florida,FL,5963110.0,Republican,George W. Bush,George W. Bush,2912790.0,Al Gore,2912253.0,Other,138067.0
+316,2000,Georgia,GA,2583208.0,Republican,George W. Bush,George W. Bush,1419720.0,Al Gore,1116230.0,Other,47258.0
+317,2000,Hawaii,HI,367951.0,Democrat,Al Gore,George W. Bush,137845.0,Al Gore,205286.0,Other,24820.0
+318,2000,Idaho,ID,501615.0,Republican,George W. Bush,George W. Bush,336937.0,Al Gore,138637.0,Other,26041.0
+319,2000,Illinois,IL,4742108.0,Democrat,Al Gore,George W. Bush,2019421.0,Al Gore,2589026.0,Other,133661.0
+320,2000,Indiana,IN,2199302.0,Republican,George W. Bush,George W. Bush,1245836.0,Al Gore,901980.0,Other,51486.0
+321,2000,Iowa,IA,1353022.0,Democrat,Al Gore,George W. Bush,634373.0,Al Gore,638517.0,Other,80132.0
+322,2000,Kansas,KS,1072216.0,Republican,George W. Bush,George W. Bush,622332.0,Al Gore,399276.0,Other,50608.0
+323,2000,Kentucky,KY,1544106.0,Republican,George W. Bush,George W. Bush,872520.0,Al Gore,638923.0,Other,32663.0
+324,2000,Louisiana,LA,1765656.0,Republican,George W. Bush,George W. Bush,927871.0,Al Gore,792344.0,Other,45441.0
+325,2000,Maine,ME,651817.0,Democrat,Al Gore,George W. Bush,286616.0,Al Gore,319951.0,Other,45250.0
+326,2000,Maryland,MD,2025212.0,Democrat,Al Gore,George W. Bush,813827.0,Al Gore,1144008.0,Other,67377.0
+327,2000,Massachusetts,MA,2733964.0,Democrat,Al Gore,George W. Bush,878502.0,Al Gore,1616487.0,Other,238975.0
+328,2000,Michigan,MI,4232501.0,Democrat,Al Gore,George W. Bush,1953139.0,Al Gore,2170418.0,Other,108944.0
+329,2000,Minnesota,MN,2438685.0,Democrat,Al Gore,George W. Bush,1109659.0,Al Gore,1168266.0,Other,160760.0
+330,2000,Mississippi,MS,994184.0,Republican,George W. Bush,George W. Bush,572844.0,Al Gore,404614.0,Other,16726.0
+331,2000,Missouri,MO,2359892.0,Republican,George W. Bush,George W. Bush,1189924.0,Al Gore,1111138.0,Other,58830.0
+332,2000,Montana,MT,410986.0,Republican,George W. Bush,George W. Bush,240178.0,Al Gore,137126.0,Other,33682.0
+333,2000,Nebraska,NE,697019.0,Republican,George W. Bush,George W. Bush,433862.0,Al Gore,231780.0,Other,31377.0
+334,2000,Nevada,NV,609426.0,Republican,George W. Bush,George W. Bush,301575.0,Al Gore,279978.0,Other,27873.0
+335,2000,New Hampshire,NH,569081.0,Republican,George W. Bush,George W. Bush,273559.0,Al Gore,266348.0,Other,29174.0
+336,2000,New Jersey,NJ,3187226.0,Democrat,Al Gore,George W. Bush,1284173.0,Al Gore,1788850.0,Other,114203.0
+337,2000,New Mexico,NM,598605.0,Democrat,Al Gore,George W. Bush,286417.0,Al Gore,286783.0,Other,25405.0
+338,2000,New York,NY,6960215.0,Democrat,Al Gore,George W. Bush,2258577.0,Al Gore,3942215.0,Other,759423.0
+339,2000,North Carolina,NC,2914990.0,Republican,George W. Bush,George W. Bush,1631163.0,Al Gore,1257692.0,Other,26135.0
+340,2000,North Dakota,ND,288256.0,Republican,George W. Bush,George W. Bush,174852.0,Al Gore,95284.0,Other,18120.0
+341,2000,Ohio,OH,4701998.0,Republican,George W. Bush,George W. Bush,2350363.0,Al Gore,2183628.0,Other,168007.0
+342,2000,Oklahoma,OK,1234229.0,Republican,George W. Bush,George W. Bush,744337.0,Al Gore,474276.0,Other,15616.0
+343,2000,Oregon,OR,1533950.0,Democrat,Al Gore,George W. Bush,713577.0,Al Gore,720342.0,Other,100031.0
+344,2000,Pennsylvania,PA,4912185.0,Democrat,Al Gore,George W. Bush,2281127.0,Al Gore,2485967.0,Other,145091.0
+345,2000,Rhode Island,RI,409112.0,Democrat,Al Gore,George W. Bush,130555.0,Al Gore,249508.0,Other,29049.0
+346,2000,South Carolina,SC,1383902.0,Republican,George W. Bush,George W. Bush,786892.0,Al Gore,566037.0,Other,30973.0
+347,2000,South Dakota,SD,316269.0,Republican,George W. Bush,George W. Bush,190700.0,Al Gore,118804.0,Other,6765.0
+348,2000,Tennessee,TN,2076181.0,Republican,George W. Bush,George W. Bush,1061949.0,Al Gore,981720.0,Other,32512.0
+349,2000,Texas,TX,6407637.0,Republican,George W. Bush,George W. Bush,3799639.0,Al Gore,2433746.0,Other,174252.0
+350,2000,Utah,UT,770754.0,Republican,George W. Bush,George W. Bush,515096.0,Al Gore,203053.0,Other,52605.0
+351,2000,Vermont,VT,294308.0,Democrat,Al Gore,George W. Bush,119775.0,Al Gore,149022.0,Other,25511.0
+352,2000,Virginia,VA,2739447.0,Republican,George W. Bush,George W. Bush,1437490.0,Al Gore,1217290.0,Other,84667.0
+353,2000,Washington,WA,2487433.0,Democrat,Al Gore,George W. Bush,1108864.0,Al Gore,1247652.0,Other,130917.0
+354,2000,West Virginia,WV,648124.0,Republican,George W. Bush,George W. Bush,336475.0,Al Gore,295497.0,Other,16152.0
+355,2000,Wisconsin,WI,2598607.0,Democrat,Al Gore,George W. Bush,1237279.0,Al Gore,1242987.0,Other,118341.0
+356,2000,Wyoming,WY,213726.0,Republican,George W. Bush,George W. Bush,147947.0,Al Gore,60481.0,Other,5298.0
+357,2004,Alabama,AL,1883415.0,Republican,George W. Bush,George W. Bush,1176394.0,John Kerry,693933.0,Other,13088.0
+358,2004,Alaska,AK,312598.0,Republican,George W. Bush,George W. Bush,190889.0,John Kerry,111025.0,Other,10684.0
+359,2004,Arizona,AZ,2012585.0,Republican,George W. Bush,George W. Bush,1104294.0,John Kerry,893524.0,Other,14767.0
+360,2004,Arkansas,AR,1054945.0,Republican,George W. Bush,George W. Bush,572898.0,John Kerry,469953.0,Other,12094.0
+361,2004,California,CA,12421353.0,Democrat,John Kerry,George W. Bush,5509826.0,John Kerry,6745485.0,Other,166042.0
+362,2004,Colorado,CO,2129630.0,Republican,George W. Bush,George W. Bush,1101255.0,John Kerry,1001732.0,Other,26643.0
+363,2004,Connecticut,CT,1578769.0,Democrat,John Kerry,George W. Bush,693826.0,John Kerry,857488.0,Other,27455.0
+364,2004,Delaware,DE,375190.0,Democrat,John Kerry,George W. Bush,171660.0,John Kerry,200152.0,Other,3378.0
+365,2004,District of Columbia,DC,227586.0,Democrat,John Kerry,George W. Bush,21256.0,John Kerry,202970.0,Other,3360.0
+366,2004,Florida,FL,7609810.0,Republican,George W. Bush,George W. Bush,3964522.0,John Kerry,3583544.0,Other,61744.0
+367,2004,Georgia,GA,3301875.0,Republican,George W. Bush,George W. Bush,1914254.0,John Kerry,1366149.0,Other,21472.0
+368,2004,Hawaii,HI,429013.0,Democrat,John Kerry,George W. Bush,194191.0,John Kerry,231708.0,Other,3114.0
+369,2004,Idaho,ID,598376.0,Republican,George W. Bush,George W. Bush,409235.0,John Kerry,181098.0,Other,8043.0
+370,2004,Illinois,IL,5274322.0,Democrat,John Kerry,George W. Bush,2345946.0,John Kerry,2891550.0,Other,36826.0
+371,2004,Indiana,IN,2468002.0,Republican,George W. Bush,George W. Bush,1479438.0,John Kerry,969011.0,Other,19553.0
+372,2004,Iowa,IA,1506908.0,Republican,George W. Bush,George W. Bush,751957.0,John Kerry,741898.0,Other,13053.0
+373,2004,Kansas,KS,1187756.0,Republican,George W. Bush,George W. Bush,736456.0,John Kerry,434993.0,Other,16307.0
+374,2004,Kentucky,KY,1795882.0,Republican,George W. Bush,George W. Bush,1069439.0,John Kerry,712733.0,Other,13710.0
+375,2004,Louisiana,LA,1943106.0,Republican,George W. Bush,George W. Bush,1102169.0,John Kerry,820299.0,Other,20638.0
+376,2004,Maine,ME,740752.0,Democrat,John Kerry,George W. Bush,330201.0,John Kerry,396842.0,Other,13709.0
+377,2004,Maryland,MD,2384238.0,Democrat,John Kerry,George W. Bush,1024703.0, Other,7.0,Other,25035.0
+378,2004,Maryland,MD,2384238.0,Democrat,John Kerry,George W. Bush,1024703.0,John Kerry,1334493.0,Other,25035.0
+379,2004,Massachusetts,MA,2927455.0,Democrat,John Kerry,George W. Bush,1071109.0,John Kerry,1803800.0,Other,52546.0
+380,2004,Michigan,MI,4839252.0,Democrat,John Kerry,George W. Bush,2313746.0,John Kerry,2479183.0,Other,46323.0
+381,2004,Minnesota,MN,2828387.0,Democrat,John Kerry,George W. Bush,1346695.0,John Kerry,1445014.0,Other,36678.0
+382,2004,Mississippi,MS,1139824.0,Republican,George W. Bush,George W. Bush,672660.0,John Kerry,457766.0,Other,9398.0
+383,2004,Missouri,MO,2731364.0,Republican,George W. Bush,George W. Bush,1455713.0,John Kerry,1259171.0,Other,16480.0
+384,2004,Montana,MT,450434.0,Republican,George W. Bush,George W. Bush,266063.0,John Kerry,173710.0,Other,10661.0
+385,2004,Nebraska,NE,778186.0,Republican,George W. Bush,George W. Bush,512814.0,John Kerry,254328.0,Other,11044.0
+386,2004,Nevada,NV,829587.0,Republican,George W. Bush,George W. Bush,418690.0,John Kerry,397190.0,Other,13707.0
+387,2004,New Hampshire,NH,678287.0,Democrat,John Kerry,George W. Bush,331237.0,John Kerry,340511.0,Other,6539.0
+388,2004,New Jersey,NJ,3611691.0,Democrat,John Kerry,George W. Bush,1670003.0,John Kerry,1911430.0,Other,30258.0
+389,2004,New Mexico,NM,756304.0,Republican,George W. Bush,George W. Bush,376930.0,John Kerry,370942.0,Other,8432.0
+390,2004,New York,NY,7448266.0,Democrat,John Kerry,George W. Bush,2806993.0,John Kerry,4180755.0,Other,460518.0
+391,2004,North Carolina,NC,3501007.0,Republican,George W. Bush,George W. Bush,1961166.0,John Kerry,1525849.0,Other,13992.0
+392,2004,North Dakota,ND,312833.0,Republican,George W. Bush,George W. Bush,196651.0,John Kerry,111052.0,Other,5130.0
+393,2004,Ohio,OH,5627903.0,Republican,George W. Bush,George W. Bush,2859764.0,John Kerry,2741165.0,Other,26974.0
+394,2004,Oklahoma,OK,1463758.0,Republican,George W. Bush,George W. Bush,959792.0,John Kerry,503966.0,,
+395,2004,Oregon,OR,1836782.0,Democrat,John Kerry,George W. Bush,866831.0,John Kerry,943163.0,Other,26788.0
+396,2004,Pennsylvania,PA,5769590.0,Democrat,John Kerry,George W. Bush,2793847.0,John Kerry,2938095.0,Other,37648.0
+397,2004,Rhode Island,RI,437134.0,Democrat,John Kerry,George W. Bush,169046.0,John Kerry,259760.0,Other,8328.0
+398,2004,South Carolina,SC,1617700.0,Republican,George W. Bush,George W. Bush,937974.0,John Kerry,661669.0,Other,18057.0
+399,2004,South Dakota,SD,388215.0,Republican,George W. Bush,George W. Bush,232584.0,John Kerry,149244.0,Other,6387.0
+400,2004,Tennessee,TN,2437319.0,Republican,George W. Bush,George W. Bush,1384375.0,John Kerry,1036477.0,Other,16467.0
+401,2004,Texas,TX,7410749.0,Republican,George W. Bush,George W. Bush,4526917.0,John Kerry,2832704.0,Other,51128.0
+402,2004,Utah,UT,927844.0,Republican,George W. Bush,George W. Bush,663742.0,John Kerry,241199.0,Other,22903.0
+403,2004,Vermont,VT,312309.0,Democrat,John Kerry,George W. Bush,121180.0,John Kerry,184067.0,Other,7062.0
+404,2004,Virginia,VA,3195415.0,Republican,George W. Bush,George W. Bush,1716959.0,John Kerry,1454742.0,Other,23714.0
+405,2004,Washington,WA,2859084.0,Democrat,John Kerry,George W. Bush,1304894.0,John Kerry,1510201.0,Other,43989.0
+406,2004,West Virginia,WV,755792.0,Republican,George W. Bush,George W. Bush,423778.0,John Kerry,326541.0,Other,5473.0
+407,2004,Wisconsin,WI,2997007.0,Democrat,John Kerry,George W. Bush,1478120.0,John Kerry,1489504.0,Other,29383.0
+408,2004,Wyoming,WY,243861.0,Republican,George W. Bush,George W. Bush,167629.0,John Kerry,70776.0,Other,5456.0
+409,2008,Alabama,AL,2099819.0,Republican,John McCain,John McCain,1266546.0,Barack H. Obama,813479.0,Other,19794.0
+410,2008,Alaska,AK,326197.0,Republican,John McCain,John McCain,193841.0,Barack H. Obama,123594.0,Other,8762.0
+411,2008,Arizona,AZ,2293475.0,Republican,John McCain,John McCain,1230111.0,Barack H. Obama,1034707.0,Other,28657.0
+412,2008,Arkansas,AR,1086617.0,Republican,John McCain,John McCain,638017.0,Barack H. Obama,422310.0,Other,26290.0
+413,2008,California,CA,13561900.0,Democrat,Barack H. Obama,John McCain,5011781.0,Barack H. Obama,8274473.0,Other,275646.0
+414,2008,Colorado,CO,2401361.0,Democrat,Barack H. Obama,John McCain,1073589.0,Barack H. Obama,1288576.0,Other,39196.0
+415,2008,Connecticut,CT,1646792.0,Democrat,Barack H. Obama,John McCain,629428.0,Barack H. Obama,997772.0,Other,19592.0
+416,2008,Delaware,DE,412412.0,Democrat,Barack H. Obama,John McCain,152374.0,Barack H. Obama,255459.0,Other,4579.0
+417,2008,District of Columbia,DC,265853.0,Democrat,Barack H. Obama,John McCain,17367.0,Barack H. Obama,245800.0,Other,2686.0
+418,2008,Florida,FL,8390744.0,Democrat,Barack H. Obama,John McCain,4045624.0,Barack H. Obama,4282074.0,Other,63046.0
+419,2008,Georgia,GA,3924486.0,Republican,John McCain,John McCain,2048759.0,Barack H. Obama,1844123.0,Other,31604.0
+420,2008,Hawaii,HI,456064.0,Democrat,Barack H. Obama,John McCain,120566.0,Barack H. Obama,325871.0,Other,9627.0
+421,2008,Idaho,ID,655122.0,Republican,John McCain,John McCain,403012.0,Barack H. Obama,236440.0,Other,15670.0
+422,2008,Illinois,IL,5522371.0,Democrat,Barack H. Obama,John McCain,2031179.0,Barack H. Obama,3419348.0,Other,71844.0
+423,2008,Indiana,IN,2751054.0,Democrat,Barack H. Obama,John McCain,1345648.0,Barack H. Obama,1374039.0,Other,31367.0
+424,2008,Iowa,IA,1537123.0,Democrat,Barack H. Obama,John McCain,682379.0,Barack H. Obama,828940.0,Other,25804.0
+425,2008,Kansas,KS,1235872.0,Republican,John McCain,John McCain,699655.0,Barack H. Obama,514765.0,Other,21452.0
+426,2008,Kentucky,KY,1826620.0,Republican,John McCain,John McCain,1048462.0,Barack H. Obama,751985.0,Other,26173.0
+427,2008,Louisiana,LA,1960761.0,Republican,John McCain,John McCain,1148275.0,Barack H. Obama,782989.0,Other,29497.0
+428,2008,Maine,ME,731163.0,Democrat,Barack H. Obama,John McCain,295273.0,Barack H. Obama,421923.0,Other,13967.0
+429,2008,Maryland,MD,2631596.0,Democrat,Barack H. Obama,John McCain,959862.0,Barack H. Obama,1629467.0,Other,42267.0
+430,2008,Massachusetts,MA,3102995.0,Democrat,Barack H. Obama,John McCain,1108854.0,Barack H. Obama,1904097.0,Other,90044.0
+431,2008,Michigan,MI,5001596.0,Democrat,Barack H. Obama,John McCain,2048639.0,Barack H. Obama,2872579.0,Other,80378.0
+432,2008,Minnesota,MN,2910369.0,Democrat,Barack H. Obama,John McCain,1275409.0,Barack H. Obama,1573354.0,Other,61606.0
+433,2008,Mississippi,MS,1289865.0,Republican,John McCain,John McCain,724597.0,Barack H. Obama,554662.0,Other,10606.0
+434,2008,Missouri,MO,2925205.0,Republican,John McCain,John McCain,1445814.0,Barack H. Obama,1441911.0,Other,37480.0
+435,2008,Montana,MT,490109.0,Republican,John McCain,John McCain,242763.0,Barack H. Obama,231667.0,Other,15679.0
+436,2008,Nebraska,NE,801281.0,Republican,John McCain,John McCain,452979.0,Barack H. Obama,333319.0,Other,14983.0
+437,2008,Nevada,NV,967848.0,Democrat,Barack H. Obama,John McCain,412827.0,Barack H. Obama,533736.0,Other,21285.0
+438,2008,New Hampshire,NH,710970.0,Democrat,Barack H. Obama,John McCain,316534.0,Barack H. Obama,384826.0,Other,9610.0
+439,2008,New Jersey,NJ,3868237.0,Democrat,Barack H. Obama,John McCain,1613207.0,Barack H. Obama,2215422.0,Other,39608.0
+440,2008,New Mexico,NM,830158.0,Democrat,Barack H. Obama,John McCain,346832.0,Barack H. Obama,472422.0,Other,10904.0
+441,2008,New York,NY,7722019.0,Democrat,Barack H. Obama,John McCain,2418323.0,Barack H. Obama,4645332.0,Other,658364.0
+442,2008,North Carolina,NC,4310851.0,Democrat,Barack H. Obama,John McCain,2128474.0,Barack H. Obama,2142651.0,Other,39726.0
+443,2008,North Dakota,ND,316621.0,Republican,John McCain,John McCain,168601.0,Barack H. Obama,141278.0,Other,6742.0
+444,2008,Ohio,OH,5708350.0,Democrat,Barack H. Obama,John McCain,2677820.0,Barack H. Obama,2940044.0,Other,90486.0
+445,2008,Oklahoma,OK,1462661.0,Republican,John McCain,John McCain,960165.0,Barack H. Obama,502496.0,,
+446,2008,Oregon,OR,1827864.0,Democrat,Barack H. Obama,John McCain,738475.0,Barack H. Obama,1037291.0,Other,52098.0
+447,2008,Pennsylvania,PA,6013272.0,Democrat,Barack H. Obama,John McCain,2655885.0,Barack H. Obama,3276363.0,Other,81024.0
+448,2008,Rhode Island,RI,471766.0,Democrat,Barack H. Obama,John McCain,165391.0,Barack H. Obama,296571.0,Other,9804.0
+449,2008,South Carolina,SC,1920969.0,Republican,John McCain,John McCain,1034896.0,Barack H. Obama,862449.0,Other,23624.0
+450,2008,South Dakota,SD,381975.0,Republican,John McCain,John McCain,203054.0,Barack H. Obama,170924.0,Other,7997.0
+451,2008,Tennessee,TN,2599749.0,Republican,John McCain,John McCain,1479178.0,Barack H. Obama,1087437.0,Other,33134.0
+452,2008,Texas,TX,8077795.0,Republican,John McCain,John McCain,4479328.0,Barack H. Obama,3528633.0,Other,69834.0
+453,2008,Utah,UT,952370.0,Republican,John McCain,John McCain,596030.0,Barack H. Obama,327670.0,Other,28670.0
+454,2008,Vermont,VT,325046.0,Democrat,Barack H. Obama,John McCain,98974.0,Barack H. Obama,219262.0,Other,6810.0
+455,2008,Virginia,VA,3723260.0,Democrat,Barack H. Obama,John McCain,1725005.0,Barack H. Obama,1959532.0,Other,38723.0
+456,2008,Washington,WA,3036878.0,Democrat,Barack H. Obama,John McCain,1229216.0,Barack H. Obama,1750848.0,Other,56814.0
+457,2008,West Virginia,WV,713451.0,Republican,John McCain,John McCain,397466.0,Barack H. Obama,303857.0,Other,12128.0
+458,2008,Wisconsin,WI,2983417.0,Democrat,Barack H. Obama,John McCain,1262393.0,Barack H. Obama,1677211.0,Other,43813.0
+459,2008,Wyoming,WY,254904.0,Republican,John McCain,John McCain,164958.0,Barack H. Obama,82868.0,Other,7078.0
+460,2012,Alabama,AL,2074338.0,Republican,Mitt Romney,Mitt Romney,1255925.0,Barack H. Obama,795696.0,Other,22717.0
+461,2012,Alaska,AK,300495.0,Republican,Mitt Romney,Mitt Romney,164676.0,Barack H. Obama,122640.0,Other,13179.0
+462,2012,Arizona,AZ,2299254.0,Republican,Mitt Romney,Mitt Romney,1233654.0,Barack H. Obama,1025232.0,Other,40368.0
+463,2012,Arkansas,AR,1069468.0,Republican,Mitt Romney,Mitt Romney,647744.0,Barack H. Obama,394409.0,Other,27315.0
+464,2012,California,CA,13038547.0,Democrat,Barack H. Obama,Mitt Romney,4839958.0,Barack H. Obama,7854285.0,Other,344304.0
+465,2012,Colorado,CO,2569516.0,Democrat,Barack H. Obama,Mitt Romney,1185243.0,Barack H. Obama,1323101.0,Other,61172.0
+466,2012,Connecticut,CT,1558204.0,Democrat,Barack H. Obama,Mitt Romney,634892.0,Barack H. Obama,905083.0,Other,18229.0
+467,2012,Delaware,DE,413890.0,Democrat,Barack H. Obama,Mitt Romney,165484.0,Barack H. Obama,242584.0,Other,5822.0
+468,2012,District of Columbia,DC,293764.0,Democrat,Barack H. Obama,Mitt Romney,21381.0,Barack H. Obama,267070.0,Other,5313.0
+469,2012,Florida,FL,8474179.0,Democrat,Barack H. Obama,Mitt Romney,4163447.0,Barack H. Obama,4237756.0,Other,72976.0
+470,2012,Georgia,GA,3897839.0,Republican,Mitt Romney,Mitt Romney,2078688.0,Barack H. Obama,1773827.0,Other,45324.0
+471,2012,Hawaii,HI,437159.0,Democrat,Barack H. Obama,Mitt Romney,121015.0,Barack H. Obama,306658.0,Other,9486.0
+472,2012,Idaho,ID,652274.0,Republican,Mitt Romney,Mitt Romney,420911.0,Barack H. Obama,212787.0,Other,18576.0
+473,2012,Illinois,IL,5242014.0,Democrat,Barack H. Obama,Mitt Romney,2135216.0,Barack H. Obama,3019512.0,Other,87286.0
+474,2012,Indiana,IN,2624534.0,Republican,Mitt Romney,Mitt Romney,1420543.0,Barack H. Obama,1152887.0,Other,51104.0
+475,2012,Iowa,IA,1582180.0,Democrat,Barack H. Obama,Mitt Romney,730617.0,Barack H. Obama,822544.0,Other,29019.0
+476,2012,Kansas,KS,1159971.0,Republican,Mitt Romney,Mitt Romney,692634.0,Barack H. Obama,440726.0,Other,26611.0
+477,2012,Kentucky,KY,1797212.0,Republican,Mitt Romney,Mitt Romney,1087190.0,Barack H. Obama,679370.0,Other,30652.0
+478,2012,Louisiana,LA,1994065.0,Republican,Mitt Romney,Mitt Romney,1152262.0,Barack H. Obama,809141.0,Other,32662.0
+479,2012,Maine,ME,724758.0,Democrat,Barack H. Obama,Mitt Romney,292276.0,Barack H. Obama,401306.0,Other,31176.0
+480,2012,Maryland,MD,2707327.0,Democrat,Barack H. Obama,Mitt Romney,971869.0,Barack H. Obama,1677844.0,Other,57614.0
+481,2012,Massachusetts,MA,3184196.0,Democrat,Barack H. Obama,Mitt Romney,1188314.0,Barack H. Obama,1921290.0,Other,74592.0
+482,2012,Michigan,MI,4730961.0,Democrat,Barack H. Obama,Mitt Romney,2115256.0,Barack H. Obama,2564569.0,Other,51136.0
+483,2012,Minnesota,MN,2936561.0,Democrat,Barack H. Obama,Mitt Romney,1320225.0,Barack H. Obama,1546167.0,Other,70169.0
+484,2012,Mississippi,MS,1285584.0,Republican,Mitt Romney,Mitt Romney,710746.0,Barack H. Obama,562949.0,Other,11889.0
+485,2012,Missouri,MO,2757323.0,Republican,Mitt Romney,Mitt Romney,1482440.0,Barack H. Obama,1223796.0,Other,51087.0
+486,2012,Montana,MT,484048.0,Republican,Mitt Romney,Mitt Romney,267928.0,Barack H. Obama,201839.0,Other,14281.0
+487,2012,Nebraska,NE,794379.0,Republican,Mitt Romney,Mitt Romney,475064.0,Barack H. Obama,302081.0,Other,17234.0
+488,2012,Nevada,NV,1014918.0,Democrat,Barack H. Obama,Mitt Romney,463567.0,Barack H. Obama,531373.0,Other,19978.0
+489,2012,New Hampshire,NH,710972.0,Democrat,Barack H. Obama,Mitt Romney,329918.0,Barack H. Obama,369561.0,Other,11493.0
+490,2012,New Jersey,NJ,3638499.0,Democrat,Barack H. Obama,Mitt Romney,1478088.0,Barack H. Obama,2122786.0,Other,37625.0
+491,2012,New Mexico,NM,783758.0,Democrat,Barack H. Obama,Mitt Romney,335788.0,Barack H. Obama,415335.0,Other,32635.0
+492,2012,New York,NY,7116784.0,Democrat,Barack H. Obama,Mitt Romney,2223397.0,Barack H. Obama,4324228.0,Other,569159.0
+493,2012,North Carolina,NC,4505372.0,Republican,Mitt Romney,Mitt Romney,2270395.0,Barack H. Obama,2178391.0,Other,56586.0
+494,2012,North Dakota,ND,322932.0,Republican,Mitt Romney,Mitt Romney,188320.0,Barack H. Obama,124966.0,Other,9646.0
+495,2012,Ohio,OH,5580822.0,Democrat,Barack H. Obama,Mitt Romney,2661407.0,Barack H. Obama,2827621.0,Other,91794.0
+496,2012,Oklahoma,OK,1334872.0,Republican,Mitt Romney,Mitt Romney,891325.0,Barack H. Obama,443547.0,,
+497,2012,Oregon,OR,1789270.0,Democrat,Barack H. Obama,Mitt Romney,754175.0,Barack H. Obama,970488.0,Other,64607.0
+498,2012,Pennsylvania,PA,5742040.0,Democrat,Barack H. Obama,Mitt Romney,2680434.0,Barack H. Obama,2990274.0,Other,71332.0
+499,2012,Rhode Island,RI,446049.0,Democrat,Barack H. Obama,Mitt Romney,157204.0,Barack H. Obama,279677.0,Other,9168.0
+500,2012,South Carolina,SC,1964118.0,Republican,Mitt Romney,Mitt Romney,1071645.0,Barack H. Obama,865941.0,Other,26532.0
+501,2012,South Dakota,SD,363815.0,Republican,Mitt Romney,Mitt Romney,210610.0,Barack H. Obama,145039.0,Other,8166.0
+502,2012,Tennessee,TN,2458577.0,Republican,Mitt Romney,Mitt Romney,1462330.0,Barack H. Obama,960709.0,Other,35538.0
+503,2012,Texas,TX,7993851.0,Republican,Mitt Romney,Mitt Romney,4569843.0,Barack H. Obama,3308124.0,Other,115884.0
+504,2012,Utah,UT,1017440.0,Republican,Mitt Romney,Mitt Romney,740600.0,Barack H. Obama,251813.0,Other,25027.0
+505,2012,Vermont,VT,299290.0,Democrat,Barack H. Obama,Mitt Romney,92698.0,Barack H. Obama,199239.0,Other,7353.0
+506,2012,Virginia,VA,3854489.0,Democrat,Barack H. Obama,Mitt Romney,1822522.0,Barack H. Obama,1971820.0,Other,60147.0
+507,2012,Washington,WA,3125516.0,Democrat,Barack H. Obama,Romney Mitt,1290670.0,Barack H. Obama,1755396.0,Other,79450.0
+508,2012,West Virginia,WV,670438.0,Republican,Mitt Romney,Mitt Romney,417655.0,Barack H. Obama,238269.0,Other,14514.0
+509,2012,Wisconsin,WI,3071434.0,Democrat,Barack H. Obama,Mitt Romney,1410966.0,Barack H. Obama,1620985.0,Other,39483.0
+510,2012,Wyoming,WY,250701.0,Republican,Mitt Romney,Mitt Romney,170962.0,Barack H. Obama,69286.0,Other,10453.0
+511,2016,Alabama,AL,2123372.0,Republican,Donald J. Trump,Donald J. Trump,1318255.0,Hillary Clinton,729547.0,Other,75570.0
+512,2016,Alaska,AK,318608.0,Republican,Donald J. Trump,Donald J. Trump,163387.0,Hillary Clinton,116454.0,Other,38767.0
+513,2016,Arizona,AZ,2573165.0,Republican,Donald J. Trump,Donald J. Trump,1252401.0, ,42.0,Other,159555.0
+514,2016,Arizona,AZ,2573165.0,Republican,Donald J. Trump,Donald J. Trump,1252401.0,Hillary Clinton,1161167.0,Other,159555.0
+515,2016,Arkansas,AR,1130635.0,Republican,Donald J. Trump,Donald J. Trump,684872.0,Hillary Clinton,380494.0,Other,65269.0
+516,2016,California,CA,14181595.0,Democrat,Hillary Clinton,Donald J. Trump,4483810.0,Hillary Clinton,8753788.0,Other,943997.0
+517,2016,Colorado,CO,2780220.0,Democrat,Hillary Clinton,Donald J. Trump,1202484.0,Hillary Clinton,1338870.0,Other,238866.0
+518,2016,Connecticut,CT,1644920.0,Democrat,Hillary Clinton,Donald J. Trump,673215.0,Hillary Clinton,897572.0,Other,74133.0
+519,2016,Delaware,DE,441590.0,Democrat,Hillary Clinton,Donald J. Trump,185127.0,Hillary Clinton,235603.0,Other,20860.0
+520,2016,District of Columbia,DC,312575.0,Democrat,Hillary Clinton,Donald J. Trump,12723.0,Hillary Clinton,282830.0,Other,17022.0
+521,2016,Florida,FL,9420039.0,Republican,Donald J. Trump,Donald J. Trump,4617886.0,Hillary Clinton,4504975.0,Other,297178.0
+522,2016,Georgia,GA,4114732.0,Republican,Donald J. Trump,Donald J. Trump,2089104.0,Hillary Clinton,1877963.0,Other,147665.0
+523,2016,Hawaii,HI,437664.0,Democrat,Hillary Clinton,Donald J. Trump,128847.0,Hillary Clinton,266891.0,Other,41926.0
+524,2016,Idaho,ID,690255.0,Republican,Donald J. Trump,Donald J. Trump,409055.0,Hillary Clinton,189765.0,Other,91435.0
+525,2016,Illinois,IL,5536424.0,Democrat,Hillary Clinton,Donald J. Trump,2146015.0,Hillary Clinton,3090729.0,Other,299680.0
+526,2016,Indiana,IN,2734958.0,Republican,Donald J. Trump,Donald J. Trump,1557286.0,Hillary Clinton,1033126.0,Other,144546.0
+527,2016,Iowa,IA,1565580.0,Republican,Donald J. Trump,Donald J. Trump,800983.0,Hillary Clinton,653669.0,Other,110928.0
+528,2016,Kansas,KS,1184402.0,Republican,Donald J. Trump,Donald J. Trump,671018.0,Hillary Clinton,427005.0,Other,86379.0
+529,2016,Kentucky,KY,1924149.0,Republican,Donald J. Trump,Donald J. Trump,1202971.0,Hillary Clinton,628854.0,Other,92324.0
+530,2016,Louisiana,LA,2029032.0,Republican,Donald J. Trump,Donald J. Trump,1178638.0,Hillary Clinton,780154.0,Other,70240.0
+531,2016,Maine,ME,771892.0,Democrat,Hillary Clinton,Donald J. Trump,335593.0,Hillary Clinton,357735.0,Other,78564.0
+532,2016,Maryland,MD,2781446.0,Democrat,Hillary Clinton,Donald J. Trump,943428.0,Hillary Clinton,1678006.0,Other,160012.0
+533,2016,Massachusetts,MA,3378821.0,Democrat,Hillary Clinton,Donald J. Trump,1090893.0,Hillary Clinton,1995196.0,Other,292732.0
+534,2016,Michigan,MI,4799284.0,Republican,Donald J. Trump,Donald J. Trump,2279543.0,Hillary Clinton,2268839.0,Other,250902.0
+535,2016,Minnesota,MN,2944782.0,Democrat,Hillary Clinton,Donald J. Trump,1322949.0,Hillary Clinton,1367705.0,Other,254128.0
+536,2016,Mississippi,MS,1209357.0,Republican,Donald J. Trump,Donald J. Trump,700714.0,Hillary Clinton,485131.0,Other,23512.0
+537,2016,Missouri,MO,2808605.0,Republican,Donald J. Trump,Donald J. Trump,1594511.0,Hillary Clinton,1071068.0,Other,143026.0
+538,2016,Montana,MT,494526.0,Republican,Donald J. Trump,Donald J. Trump,279240.0,Hillary Clinton,177709.0,Other,37577.0
+539,2016,Nebraska,NE,844227.0,Republican,Donald J. Trump,Donald J. Trump,495961.0,Hillary Clinton,284494.0,Other,63772.0
+540,2016,Nevada,NV,1125385.0,Democrat,Hillary Clinton,Donald J. Trump,512058.0,Hillary Clinton,539260.0,Other,74067.0
+541,2016,New Hampshire,NH,744296.0,Democrat,Hillary Clinton,Donald J. Trump,345790.0,Hillary Clinton,348526.0,Other,49980.0
+542,2016,New Jersey,NJ,3874046.0,Democrat,Hillary Clinton,Donald J. Trump,1601933.0,Hillary Clinton,2148278.0,Other,123835.0
+543,2016,New Mexico,NM,798319.0,Democrat,Hillary Clinton,Donald J. Trump,319667.0,Hillary Clinton,385234.0,Other,93418.0
+544,2016,New York,NY,7802084.0,Democrat,Hillary Clinton,Donald J. Trump,2527142.0,Hillary Clinton,4379789.0,Other,895153.0
+545,2016,North Carolina,NC,4741564.0,Republican,Donald J. Trump,Donald J. Trump,2362631.0,Hillary Clinton,2189316.0,Other,189617.0
+546,2016,North Dakota,ND,344360.0,Republican,Donald J. Trump,Donald J. Trump,216794.0,Hillary Clinton,93758.0,Other,33808.0
+547,2016,Ohio,OH,5496487.0,Republican,Donald J. Trump,Donald J. Trump,2841005.0,Hillary Clinton,2394164.0,Other,261318.0
+548,2016,Oklahoma,OK,1452992.0,Republican,Donald J. Trump,Donald J. Trump,949136.0,Hillary Clinton,420375.0,Other,83481.0
+549,2016,Oregon,OR,2001336.0,Democrat,Hillary Clinton,Donald J. Trump,782403.0,Hillary Clinton,1002106.0,Other,216827.0
+550,2016,Pennsylvania,PA,6115402.0,Republican,Donald J. Trump,Donald J. Trump,2970733.0,Hillary Clinton,2926441.0,Other,218228.0
+551,2016,Rhode Island,RI,464144.0,Democrat,Hillary Clinton,Donald J. Trump,180543.0,Hillary Clinton,252525.0,Other,31076.0
+552,2016,South Carolina,SC,2103027.0,Republican,Donald J. Trump,Donald J. Trump,1155389.0,Hillary Clinton,855373.0,Other,92265.0
+553,2016,South Dakota,SD,370093.0,Republican,Donald J. Trump,Donald J. Trump,227721.0,Hillary Clinton,117458.0,Other,24914.0
+554,2016,Tennessee,TN,2508027.0,Republican,Donald J. Trump,Donald J. Trump,1522925.0,Hillary Clinton,870695.0,Other,114407.0
+555,2016,Texas,TX,8969226.0,Republican,Donald J. Trump,Donald J. Trump,4685047.0,Hillary Clinton,3877868.0,Other,406311.0
+556,2016,Utah,UT,1131317.0,Republican,Donald J. Trump,Donald J. Trump,515211.0,Hillary Clinton,310674.0,Other,305432.0
+557,2016,Vermont,VT,320467.0,Democrat,Hillary Clinton,Donald J. Trump,95369.0,Hillary Clinton,178573.0,Other,46525.0
+558,2016,Virginia,VA,3982752.0,Democrat,Hillary Clinton,Donald J. Trump,1769443.0,Hillary Clinton,1981473.0,Other,231836.0
+559,2016,Washington,WA,3317019.0,Democrat,Hillary Clinton,Donald J. Trump,1221747.0,Hillary Clinton,1742718.0,Other,352554.0
+560,2016,West Virginia,WV,713051.0,Republican,Donald J. Trump,Donald J. Trump,489371.0,Hillary Clinton,188794.0,Other,34886.0
+561,2016,Wisconsin,WI,2976150.0,Republican,Donald J. Trump,Donald J. Trump,1405284.0,Hillary Clinton,1382536.0,Other,188330.0
+562,2016,Wyoming,WY,258788.0,Republican,Donald J. Trump,Donald J. Trump,174419.0,Hillary Clinton,55973.0,Other,28396.0
+563,1977,Alabama,,,,,,,,,,
+564,1977,Alaska,,,,,,,,,,
+565,1977,Arizona,,,,,,,,,,
+566,1977,Arkansas,,,,,,,,,,
+567,1977,California,,,,,,,,,,
+568,1977,Colorado,,,,,,,,,,
+569,1977,Connecticut,,,,,,,,,,
+570,1977,Delaware,,,,,,,,,,
+571,1977,District of Columbia,,,,,,,,,,
+572,1977,Florida,,,,,,,,,,
+573,1977,Georgia,,,,,,,,,,
+574,1977,Hawaii,,,,,,,,,,
+575,1977,Idaho,,,,,,,,,,
+576,1977,Illinois,,,,,,,,,,
+577,1977,Indiana,,,,,,,,,,
+578,1977,Iowa,,,,,,,,,,
+579,1977,Kansas,,,,,,,,,,
+580,1977,Kentucky,,,,,,,,,,
+581,1977,Louisiana,,,,,,,,,,
+582,1977,Maine,,,,,,,,,,
+583,1977,Maryland,,,,,,,,,,
+584,1977,Massachusetts,,,,,,,,,,
+585,1977,Michigan,,,,,,,,,,
+586,1977,Minnesota,,,,,,,,,,
+587,1977,Mississippi,,,,,,,,,,
+588,1977,Missouri,,,,,,,,,,
+589,1977,Montana,,,,,,,,,,
+590,1977,Nebraska,,,,,,,,,,
+591,1977,Nevada,,,,,,,,,,
+592,1977,New Hampshire,,,,,,,,,,
+593,1977,New Jersey,,,,,,,,,,
+594,1977,New Mexico,,,,,,,,,,
+595,1977,New York,,,,,,,,,,
+596,1977,North Carolina,,,,,,,,,,
+597,1977,North Dakota,,,,,,,,,,
+598,1977,Ohio,,,,,,,,,,
+599,1977,Oklahoma,,,,,,,,,,
+600,1977,Oregon,,,,,,,,,,
+601,1977,Pennsylvania,,,,,,,,,,
+602,1977,Rhode Island,,,,,,,,,,
+603,1977,South Carolina,,,,,,,,,,
+604,1977,South Dakota,,,,,,,,,,
+605,1977,Tennessee,,,,,,,,,,
+606,1977,Texas,,,,,,,,,,
+607,1977,Utah,,,,,,,,,,
+608,1977,Vermont,,,,,,,,,,
+609,1977,Virginia,,,,,,,,,,
+610,1977,Washington,,,,,,,,,,
+611,1977,West Virginia,,,,,,,,,,
+612,1977,Wisconsin,,,,,,,,,,
+613,1977,Wyoming,,,,,,,,,,
+614,1978,Alabama,,,,,,,,,,
+615,1978,Alaska,,,,,,,,,,
+616,1978,Arizona,,,,,,,,,,
+617,1978,Arkansas,,,,,,,,,,
+618,1978,California,,,,,,,,,,
+619,1978,Colorado,,,,,,,,,,
+620,1978,Connecticut,,,,,,,,,,
+621,1978,Delaware,,,,,,,,,,
+622,1978,District of Columbia,,,,,,,,,,
+623,1978,Florida,,,,,,,,,,
+624,1978,Georgia,,,,,,,,,,
+625,1978,Hawaii,,,,,,,,,,
+626,1978,Idaho,,,,,,,,,,
+627,1978,Illinois,,,,,,,,,,
+628,1978,Indiana,,,,,,,,,,
+629,1978,Iowa,,,,,,,,,,
+630,1978,Kansas,,,,,,,,,,
+631,1978,Kentucky,,,,,,,,,,
+632,1978,Louisiana,,,,,,,,,,
+633,1978,Maine,,,,,,,,,,
+634,1978,Maryland,,,,,,,,,,
+635,1978,Massachusetts,,,,,,,,,,
+636,1978,Michigan,,,,,,,,,,
+637,1978,Minnesota,,,,,,,,,,
+638,1978,Mississippi,,,,,,,,,,
+639,1978,Missouri,,,,,,,,,,
+640,1978,Montana,,,,,,,,,,
+641,1978,Nebraska,,,,,,,,,,
+642,1978,Nevada,,,,,,,,,,
+643,1978,New Hampshire,,,,,,,,,,
+644,1978,New Jersey,,,,,,,,,,
+645,1978,New Mexico,,,,,,,,,,
+646,1978,New York,,,,,,,,,,
+647,1978,North Carolina,,,,,,,,,,
+648,1978,North Dakota,,,,,,,,,,
+649,1978,Ohio,,,,,,,,,,
+650,1978,Oklahoma,,,,,,,,,,
+651,1978,Oregon,,,,,,,,,,
+652,1978,Pennsylvania,,,,,,,,,,
+653,1978,Rhode Island,,,,,,,,,,
+654,1978,South Carolina,,,,,,,,,,
+655,1978,South Dakota,,,,,,,,,,
+656,1978,Tennessee,,,,,,,,,,
+657,1978,Texas,,,,,,,,,,
+658,1978,Utah,,,,,,,,,,
+659,1978,Vermont,,,,,,,,,,
+660,1978,Virginia,,,,,,,,,,
+661,1978,Washington,,,,,,,,,,
+662,1978,West Virginia,,,,,,,,,,
+663,1978,Wisconsin,,,,,,,,,,
+664,1978,Wyoming,,,,,,,,,,
+665,1979,Alabama,,,,,,,,,,
+666,1979,Alaska,,,,,,,,,,
+667,1979,Arizona,,,,,,,,,,
+668,1979,Arkansas,,,,,,,,,,
+669,1979,California,,,,,,,,,,
+670,1979,Colorado,,,,,,,,,,
+671,1979,Connecticut,,,,,,,,,,
+672,1979,Delaware,,,,,,,,,,
+673,1979,District of Columbia,,,,,,,,,,
+674,1979,Florida,,,,,,,,,,
+675,1979,Georgia,,,,,,,,,,
+676,1979,Hawaii,,,,,,,,,,
+677,1979,Idaho,,,,,,,,,,
+678,1979,Illinois,,,,,,,,,,
+679,1979,Indiana,,,,,,,,,,
+680,1979,Iowa,,,,,,,,,,
+681,1979,Kansas,,,,,,,,,,
+682,1979,Kentucky,,,,,,,,,,
+683,1979,Louisiana,,,,,,,,,,
+684,1979,Maine,,,,,,,,,,
+685,1979,Maryland,,,,,,,,,,
+686,1979,Massachusetts,,,,,,,,,,
+687,1979,Michigan,,,,,,,,,,
+688,1979,Minnesota,,,,,,,,,,
+689,1979,Mississippi,,,,,,,,,,
+690,1979,Missouri,,,,,,,,,,
+691,1979,Montana,,,,,,,,,,
+692,1979,Nebraska,,,,,,,,,,
+693,1979,Nevada,,,,,,,,,,
+694,1979,New Hampshire,,,,,,,,,,
+695,1979,New Jersey,,,,,,,,,,
+696,1979,New Mexico,,,,,,,,,,
+697,1979,New York,,,,,,,,,,
+698,1979,North Carolina,,,,,,,,,,
+699,1979,North Dakota,,,,,,,,,,
+700,1979,Ohio,,,,,,,,,,
+701,1979,Oklahoma,,,,,,,,,,
+702,1979,Oregon,,,,,,,,,,
+703,1979,Pennsylvania,,,,,,,,,,
+704,1979,Rhode Island,,,,,,,,,,
+705,1979,South Carolina,,,,,,,,,,
+706,1979,South Dakota,,,,,,,,,,
+707,1979,Tennessee,,,,,,,,,,
+708,1979,Texas,,,,,,,,,,
+709,1979,Utah,,,,,,,,,,
+710,1979,Vermont,,,,,,,,,,
+711,1979,Virginia,,,,,,,,,,
+712,1979,Washington,,,,,,,,,,
+713,1979,West Virginia,,,,,,,,,,
+714,1979,Wisconsin,,,,,,,,,,
+715,1979,Wyoming,,,,,,,,,,
+716,1981,Alabama,,,,,,,,,,
+717,1981,Alaska,,,,,,,,,,
+718,1981,Arizona,,,,,,,,,,
+719,1981,Arkansas,,,,,,,,,,
+720,1981,California,,,,,,,,,,
+721,1981,Colorado,,,,,,,,,,
+722,1981,Connecticut,,,,,,,,,,
+723,1981,Delaware,,,,,,,,,,
+724,1981,District of Columbia,,,,,,,,,,
+725,1981,Florida,,,,,,,,,,
+726,1981,Georgia,,,,,,,,,,
+727,1981,Hawaii,,,,,,,,,,
+728,1981,Idaho,,,,,,,,,,
+729,1981,Illinois,,,,,,,,,,
+730,1981,Indiana,,,,,,,,,,
+731,1981,Iowa,,,,,,,,,,
+732,1981,Kansas,,,,,,,,,,
+733,1981,Kentucky,,,,,,,,,,
+734,1981,Louisiana,,,,,,,,,,
+735,1981,Maine,,,,,,,,,,
+736,1981,Maryland,,,,,,,,,,
+737,1981,Massachusetts,,,,,,,,,,
+738,1981,Michigan,,,,,,,,,,
+739,1981,Minnesota,,,,,,,,,,
+740,1981,Mississippi,,,,,,,,,,
+741,1981,Missouri,,,,,,,,,,
+742,1981,Montana,,,,,,,,,,
+743,1981,Nebraska,,,,,,,,,,
+744,1981,Nevada,,,,,,,,,,
+745,1981,New Hampshire,,,,,,,,,,
+746,1981,New Jersey,,,,,,,,,,
+747,1981,New Mexico,,,,,,,,,,
+748,1981,New York,,,,,,,,,,
+749,1981,North Carolina,,,,,,,,,,
+750,1981,North Dakota,,,,,,,,,,
+751,1981,Ohio,,,,,,,,,,
+752,1981,Oklahoma,,,,,,,,,,
+753,1981,Oregon,,,,,,,,,,
+754,1981,Pennsylvania,,,,,,,,,,
+755,1981,Rhode Island,,,,,,,,,,
+756,1981,South Carolina,,,,,,,,,,
+757,1981,South Dakota,,,,,,,,,,
+758,1981,Tennessee,,,,,,,,,,
+759,1981,Texas,,,,,,,,,,
+760,1981,Utah,,,,,,,,,,
+761,1981,Vermont,,,,,,,,,,
+762,1981,Virginia,,,,,,,,,,
+763,1981,Washington,,,,,,,,,,
+764,1981,West Virginia,,,,,,,,,,
+765,1981,Wisconsin,,,,,,,,,,
+766,1981,Wyoming,,,,,,,,,,
+767,1982,Alabama,,,,,,,,,,
+768,1982,Alaska,,,,,,,,,,
+769,1982,Arizona,,,,,,,,,,
+770,1982,Arkansas,,,,,,,,,,
+771,1982,California,,,,,,,,,,
+772,1982,Colorado,,,,,,,,,,
+773,1982,Connecticut,,,,,,,,,,
+774,1982,Delaware,,,,,,,,,,
+775,1982,District of Columbia,,,,,,,,,,
+776,1982,Florida,,,,,,,,,,
+777,1982,Georgia,,,,,,,,,,
+778,1982,Hawaii,,,,,,,,,,
+779,1982,Idaho,,,,,,,,,,
+780,1982,Illinois,,,,,,,,,,
+781,1982,Indiana,,,,,,,,,,
+782,1982,Iowa,,,,,,,,,,
+783,1982,Kansas,,,,,,,,,,
+784,1982,Kentucky,,,,,,,,,,
+785,1982,Louisiana,,,,,,,,,,
+786,1982,Maine,,,,,,,,,,
+787,1982,Maryland,,,,,,,,,,
+788,1982,Massachusetts,,,,,,,,,,
+789,1982,Michigan,,,,,,,,,,
+790,1982,Minnesota,,,,,,,,,,
+791,1982,Mississippi,,,,,,,,,,
+792,1982,Missouri,,,,,,,,,,
+793,1982,Montana,,,,,,,,,,
+794,1982,Nebraska,,,,,,,,,,
+795,1982,Nevada,,,,,,,,,,
+796,1982,New Hampshire,,,,,,,,,,
+797,1982,New Jersey,,,,,,,,,,
+798,1982,New Mexico,,,,,,,,,,
+799,1982,New York,,,,,,,,,,
+800,1982,North Carolina,,,,,,,,,,
+801,1982,North Dakota,,,,,,,,,,
+802,1982,Ohio,,,,,,,,,,
+803,1982,Oklahoma,,,,,,,,,,
+804,1982,Oregon,,,,,,,,,,
+805,1982,Pennsylvania,,,,,,,,,,
+806,1982,Rhode Island,,,,,,,,,,
+807,1982,South Carolina,,,,,,,,,,
+808,1982,South Dakota,,,,,,,,,,
+809,1982,Tennessee,,,,,,,,,,
+810,1982,Texas,,,,,,,,,,
+811,1982,Utah,,,,,,,,,,
+812,1982,Vermont,,,,,,,,,,
+813,1982,Virginia,,,,,,,,,,
+814,1982,Washington,,,,,,,,,,
+815,1982,West Virginia,,,,,,,,,,
+816,1982,Wisconsin,,,,,,,,,,
+817,1982,Wyoming,,,,,,,,,,
+818,1983,Alabama,,,,,,,,,,
+819,1983,Alaska,,,,,,,,,,
+820,1983,Arizona,,,,,,,,,,
+821,1983,Arkansas,,,,,,,,,,
+822,1983,California,,,,,,,,,,
+823,1983,Colorado,,,,,,,,,,
+824,1983,Connecticut,,,,,,,,,,
+825,1983,Delaware,,,,,,,,,,
+826,1983,District of Columbia,,,,,,,,,,
+827,1983,Florida,,,,,,,,,,
+828,1983,Georgia,,,,,,,,,,
+829,1983,Hawaii,,,,,,,,,,
+830,1983,Idaho,,,,,,,,,,
+831,1983,Illinois,,,,,,,,,,
+832,1983,Indiana,,,,,,,,,,
+833,1983,Iowa,,,,,,,,,,
+834,1983,Kansas,,,,,,,,,,
+835,1983,Kentucky,,,,,,,,,,
+836,1983,Louisiana,,,,,,,,,,
+837,1983,Maine,,,,,,,,,,
+838,1983,Maryland,,,,,,,,,,
+839,1983,Massachusetts,,,,,,,,,,
+840,1983,Michigan,,,,,,,,,,
+841,1983,Minnesota,,,,,,,,,,
+842,1983,Mississippi,,,,,,,,,,
+843,1983,Missouri,,,,,,,,,,
+844,1983,Montana,,,,,,,,,,
+845,1983,Nebraska,,,,,,,,,,
+846,1983,Nevada,,,,,,,,,,
+847,1983,New Hampshire,,,,,,,,,,
+848,1983,New Jersey,,,,,,,,,,
+849,1983,New Mexico,,,,,,,,,,
+850,1983,New York,,,,,,,,,,
+851,1983,North Carolina,,,,,,,,,,
+852,1983,North Dakota,,,,,,,,,,
+853,1983,Ohio,,,,,,,,,,
+854,1983,Oklahoma,,,,,,,,,,
+855,1983,Oregon,,,,,,,,,,
+856,1983,Pennsylvania,,,,,,,,,,
+857,1983,Rhode Island,,,,,,,,,,
+858,1983,South Carolina,,,,,,,,,,
+859,1983,South Dakota,,,,,,,,,,
+860,1983,Tennessee,,,,,,,,,,
+861,1983,Texas,,,,,,,,,,
+862,1983,Utah,,,,,,,,,,
+863,1983,Vermont,,,,,,,,,,
+864,1983,Virginia,,,,,,,,,,
+865,1983,Washington,,,,,,,,,,
+866,1983,West Virginia,,,,,,,,,,
+867,1983,Wisconsin,,,,,,,,,,
+868,1983,Wyoming,,,,,,,,,,
+869,1985,Alabama,,,,,,,,,,
+870,1985,Alaska,,,,,,,,,,
+871,1985,Arizona,,,,,,,,,,
+872,1985,Arkansas,,,,,,,,,,
+873,1985,California,,,,,,,,,,
+874,1985,Colorado,,,,,,,,,,
+875,1985,Connecticut,,,,,,,,,,
+876,1985,Delaware,,,,,,,,,,
+877,1985,District of Columbia,,,,,,,,,,
+878,1985,Florida,,,,,,,,,,
+879,1985,Georgia,,,,,,,,,,
+880,1985,Hawaii,,,,,,,,,,
+881,1985,Idaho,,,,,,,,,,
+882,1985,Illinois,,,,,,,,,,
+883,1985,Indiana,,,,,,,,,,
+884,1985,Iowa,,,,,,,,,,
+885,1985,Kansas,,,,,,,,,,
+886,1985,Kentucky,,,,,,,,,,
+887,1985,Louisiana,,,,,,,,,,
+888,1985,Maine,,,,,,,,,,
+889,1985,Maryland,,,,,,,,,,
+890,1985,Massachusetts,,,,,,,,,,
+891,1985,Michigan,,,,,,,,,,
+892,1985,Minnesota,,,,,,,,,,
+893,1985,Mississippi,,,,,,,,,,
+894,1985,Missouri,,,,,,,,,,
+895,1985,Montana,,,,,,,,,,
+896,1985,Nebraska,,,,,,,,,,
+897,1985,Nevada,,,,,,,,,,
+898,1985,New Hampshire,,,,,,,,,,
+899,1985,New Jersey,,,,,,,,,,
+900,1985,New Mexico,,,,,,,,,,
+901,1985,New York,,,,,,,,,,
+902,1985,North Carolina,,,,,,,,,,
+903,1985,North Dakota,,,,,,,,,,
+904,1985,Ohio,,,,,,,,,,
+905,1985,Oklahoma,,,,,,,,,,
+906,1985,Oregon,,,,,,,,,,
+907,1985,Pennsylvania,,,,,,,,,,
+908,1985,Rhode Island,,,,,,,,,,
+909,1985,South Carolina,,,,,,,,,,
+910,1985,South Dakota,,,,,,,,,,
+911,1985,Tennessee,,,,,,,,,,
+912,1985,Texas,,,,,,,,,,
+913,1985,Utah,,,,,,,,,,
+914,1985,Vermont,,,,,,,,,,
+915,1985,Virginia,,,,,,,,,,
+916,1985,Washington,,,,,,,,,,
+917,1985,West Virginia,,,,,,,,,,
+918,1985,Wisconsin,,,,,,,,,,
+919,1985,Wyoming,,,,,,,,,,
+920,1986,Alabama,,,,,,,,,,
+921,1986,Alaska,,,,,,,,,,
+922,1986,Arizona,,,,,,,,,,
+923,1986,Arkansas,,,,,,,,,,
+924,1986,California,,,,,,,,,,
+925,1986,Colorado,,,,,,,,,,
+926,1986,Connecticut,,,,,,,,,,
+927,1986,Delaware,,,,,,,,,,
+928,1986,District of Columbia,,,,,,,,,,
+929,1986,Florida,,,,,,,,,,
+930,1986,Georgia,,,,,,,,,,
+931,1986,Hawaii,,,,,,,,,,
+932,1986,Idaho,,,,,,,,,,
+933,1986,Illinois,,,,,,,,,,
+934,1986,Indiana,,,,,,,,,,
+935,1986,Iowa,,,,,,,,,,
+936,1986,Kansas,,,,,,,,,,
+937,1986,Kentucky,,,,,,,,,,
+938,1986,Louisiana,,,,,,,,,,
+939,1986,Maine,,,,,,,,,,
+940,1986,Maryland,,,,,,,,,,
+941,1986,Massachusetts,,,,,,,,,,
+942,1986,Michigan,,,,,,,,,,
+943,1986,Minnesota,,,,,,,,,,
+944,1986,Mississippi,,,,,,,,,,
+945,1986,Missouri,,,,,,,,,,
+946,1986,Montana,,,,,,,,,,
+947,1986,Nebraska,,,,,,,,,,
+948,1986,Nevada,,,,,,,,,,
+949,1986,New Hampshire,,,,,,,,,,
+950,1986,New Jersey,,,,,,,,,,
+951,1986,New Mexico,,,,,,,,,,
+952,1986,New York,,,,,,,,,,
+953,1986,North Carolina,,,,,,,,,,
+954,1986,North Dakota,,,,,,,,,,
+955,1986,Ohio,,,,,,,,,,
+956,1986,Oklahoma,,,,,,,,,,
+957,1986,Oregon,,,,,,,,,,
+958,1986,Pennsylvania,,,,,,,,,,
+959,1986,Rhode Island,,,,,,,,,,
+960,1986,South Carolina,,,,,,,,,,
+961,1986,South Dakota,,,,,,,,,,
+962,1986,Tennessee,,,,,,,,,,
+963,1986,Texas,,,,,,,,,,
+964,1986,Utah,,,,,,,,,,
+965,1986,Vermont,,,,,,,,,,
+966,1986,Virginia,,,,,,,,,,
+967,1986,Washington,,,,,,,,,,
+968,1986,West Virginia,,,,,,,,,,
+969,1986,Wisconsin,,,,,,,,,,
+970,1986,Wyoming,,,,,,,,,,
+971,1987,Alabama,,,,,,,,,,
+972,1987,Alaska,,,,,,,,,,
+973,1987,Arizona,,,,,,,,,,
+974,1987,Arkansas,,,,,,,,,,
+975,1987,California,,,,,,,,,,
+976,1987,Colorado,,,,,,,,,,
+977,1987,Connecticut,,,,,,,,,,
+978,1987,Delaware,,,,,,,,,,
+979,1987,District of Columbia,,,,,,,,,,
+980,1987,Florida,,,,,,,,,,
+981,1987,Georgia,,,,,,,,,,
+982,1987,Hawaii,,,,,,,,,,
+983,1987,Idaho,,,,,,,,,,
+984,1987,Illinois,,,,,,,,,,
+985,1987,Indiana,,,,,,,,,,
+986,1987,Iowa,,,,,,,,,,
+987,1987,Kansas,,,,,,,,,,
+988,1987,Kentucky,,,,,,,,,,
+989,1987,Louisiana,,,,,,,,,,
+990,1987,Maine,,,,,,,,,,
+991,1987,Maryland,,,,,,,,,,
+992,1987,Massachusetts,,,,,,,,,,
+993,1987,Michigan,,,,,,,,,,
+994,1987,Minnesota,,,,,,,,,,
+995,1987,Mississippi,,,,,,,,,,
+996,1987,Missouri,,,,,,,,,,
+997,1987,Montana,,,,,,,,,,
+998,1987,Nebraska,,,,,,,,,,
+999,1987,Nevada,,,,,,,,,,
+1000,1987,New Hampshire,,,,,,,,,,
+1001,1987,New Jersey,,,,,,,,,,
+1002,1987,New Mexico,,,,,,,,,,
+1003,1987,New York,,,,,,,,,,
+1004,1987,North Carolina,,,,,,,,,,
+1005,1987,North Dakota,,,,,,,,,,
+1006,1987,Ohio,,,,,,,,,,
+1007,1987,Oklahoma,,,,,,,,,,
+1008,1987,Oregon,,,,,,,,,,
+1009,1987,Pennsylvania,,,,,,,,,,
+1010,1987,Rhode Island,,,,,,,,,,
+1011,1987,South Carolina,,,,,,,,,,
+1012,1987,South Dakota,,,,,,,,,,
+1013,1987,Tennessee,,,,,,,,,,
+1014,1987,Texas,,,,,,,,,,
+1015,1987,Utah,,,,,,,,,,
+1016,1987,Vermont,,,,,,,,,,
+1017,1987,Virginia,,,,,,,,,,
+1018,1987,Washington,,,,,,,,,,
+1019,1987,West Virginia,,,,,,,,,,
+1020,1987,Wisconsin,,,,,,,,,,
+1021,1987,Wyoming,,,,,,,,,,
+1022,1989,Alabama,,,,,,,,,,
+1023,1989,Alaska,,,,,,,,,,
+1024,1989,Arizona,,,,,,,,,,
+1025,1989,Arkansas,,,,,,,,,,
+1026,1989,California,,,,,,,,,,
+1027,1989,Colorado,,,,,,,,,,
+1028,1989,Connecticut,,,,,,,,,,
+1029,1989,Delaware,,,,,,,,,,
+1030,1989,District of Columbia,,,,,,,,,,
+1031,1989,Florida,,,,,,,,,,
+1032,1989,Georgia,,,,,,,,,,
+1033,1989,Hawaii,,,,,,,,,,
+1034,1989,Idaho,,,,,,,,,,
+1035,1989,Illinois,,,,,,,,,,
+1036,1989,Indiana,,,,,,,,,,
+1037,1989,Iowa,,,,,,,,,,
+1038,1989,Kansas,,,,,,,,,,
+1039,1989,Kentucky,,,,,,,,,,
+1040,1989,Louisiana,,,,,,,,,,
+1041,1989,Maine,,,,,,,,,,
+1042,1989,Maryland,,,,,,,,,,
+1043,1989,Massachusetts,,,,,,,,,,
+1044,1989,Michigan,,,,,,,,,,
+1045,1989,Minnesota,,,,,,,,,,
+1046,1989,Mississippi,,,,,,,,,,
+1047,1989,Missouri,,,,,,,,,,
+1048,1989,Montana,,,,,,,,,,
+1049,1989,Nebraska,,,,,,,,,,
+1050,1989,Nevada,,,,,,,,,,
+1051,1989,New Hampshire,,,,,,,,,,
+1052,1989,New Jersey,,,,,,,,,,
+1053,1989,New Mexico,,,,,,,,,,
+1054,1989,New York,,,,,,,,,,
+1055,1989,North Carolina,,,,,,,,,,
+1056,1989,North Dakota,,,,,,,,,,
+1057,1989,Ohio,,,,,,,,,,
+1058,1989,Oklahoma,,,,,,,,,,
+1059,1989,Oregon,,,,,,,,,,
+1060,1989,Pennsylvania,,,,,,,,,,
+1061,1989,Rhode Island,,,,,,,,,,
+1062,1989,South Carolina,,,,,,,,,,
+1063,1989,South Dakota,,,,,,,,,,
+1064,1989,Tennessee,,,,,,,,,,
+1065,1989,Texas,,,,,,,,,,
+1066,1989,Utah,,,,,,,,,,
+1067,1989,Vermont,,,,,,,,,,
+1068,1989,Virginia,,,,,,,,,,
+1069,1989,Washington,,,,,,,,,,
+1070,1989,West Virginia,,,,,,,,,,
+1071,1989,Wisconsin,,,,,,,,,,
+1072,1989,Wyoming,,,,,,,,,,
+1073,1990,Alabama,,,,,,,,,,
+1074,1990,Alaska,,,,,,,,,,
+1075,1990,Arizona,,,,,,,,,,
+1076,1990,Arkansas,,,,,,,,,,
+1077,1990,California,,,,,,,,,,
+1078,1990,Colorado,,,,,,,,,,
+1079,1990,Connecticut,,,,,,,,,,
+1080,1990,Delaware,,,,,,,,,,
+1081,1990,District of Columbia,,,,,,,,,,
+1082,1990,Florida,,,,,,,,,,
+1083,1990,Georgia,,,,,,,,,,
+1084,1990,Hawaii,,,,,,,,,,
+1085,1990,Idaho,,,,,,,,,,
+1086,1990,Illinois,,,,,,,,,,
+1087,1990,Indiana,,,,,,,,,,
+1088,1990,Iowa,,,,,,,,,,
+1089,1990,Kansas,,,,,,,,,,
+1090,1990,Kentucky,,,,,,,,,,
+1091,1990,Louisiana,,,,,,,,,,
+1092,1990,Maine,,,,,,,,,,
+1093,1990,Maryland,,,,,,,,,,
+1094,1990,Massachusetts,,,,,,,,,,
+1095,1990,Michigan,,,,,,,,,,
+1096,1990,Minnesota,,,,,,,,,,
+1097,1990,Mississippi,,,,,,,,,,
+1098,1990,Missouri,,,,,,,,,,
+1099,1990,Montana,,,,,,,,,,
+1100,1990,Nebraska,,,,,,,,,,
+1101,1990,Nevada,,,,,,,,,,
+1102,1990,New Hampshire,,,,,,,,,,
+1103,1990,New Jersey,,,,,,,,,,
+1104,1990,New Mexico,,,,,,,,,,
+1105,1990,New York,,,,,,,,,,
+1106,1990,North Carolina,,,,,,,,,,
+1107,1990,North Dakota,,,,,,,,,,
+1108,1990,Ohio,,,,,,,,,,
+1109,1990,Oklahoma,,,,,,,,,,
+1110,1990,Oregon,,,,,,,,,,
+1111,1990,Pennsylvania,,,,,,,,,,
+1112,1990,Rhode Island,,,,,,,,,,
+1113,1990,South Carolina,,,,,,,,,,
+1114,1990,South Dakota,,,,,,,,,,
+1115,1990,Tennessee,,,,,,,,,,
+1116,1990,Texas,,,,,,,,,,
+1117,1990,Utah,,,,,,,,,,
+1118,1990,Vermont,,,,,,,,,,
+1119,1990,Virginia,,,,,,,,,,
+1120,1990,Washington,,,,,,,,,,
+1121,1990,West Virginia,,,,,,,,,,
+1122,1990,Wisconsin,,,,,,,,,,
+1123,1990,Wyoming,,,,,,,,,,
+1124,1991,Alabama,,,,,,,,,,
+1125,1991,Alaska,,,,,,,,,,
+1126,1991,Arizona,,,,,,,,,,
+1127,1991,Arkansas,,,,,,,,,,
+1128,1991,California,,,,,,,,,,
+1129,1991,Colorado,,,,,,,,,,
+1130,1991,Connecticut,,,,,,,,,,
+1131,1991,Delaware,,,,,,,,,,
+1132,1991,District of Columbia,,,,,,,,,,
+1133,1991,Florida,,,,,,,,,,
+1134,1991,Georgia,,,,,,,,,,
+1135,1991,Hawaii,,,,,,,,,,
+1136,1991,Idaho,,,,,,,,,,
+1137,1991,Illinois,,,,,,,,,,
+1138,1991,Indiana,,,,,,,,,,
+1139,1991,Iowa,,,,,,,,,,
+1140,1991,Kansas,,,,,,,,,,
+1141,1991,Kentucky,,,,,,,,,,
+1142,1991,Louisiana,,,,,,,,,,
+1143,1991,Maine,,,,,,,,,,
+1144,1991,Maryland,,,,,,,,,,
+1145,1991,Massachusetts,,,,,,,,,,
+1146,1991,Michigan,,,,,,,,,,
+1147,1991,Minnesota,,,,,,,,,,
+1148,1991,Mississippi,,,,,,,,,,
+1149,1991,Missouri,,,,,,,,,,
+1150,1991,Montana,,,,,,,,,,
+1151,1991,Nebraska,,,,,,,,,,
+1152,1991,Nevada,,,,,,,,,,
+1153,1991,New Hampshire,,,,,,,,,,
+1154,1991,New Jersey,,,,,,,,,,
+1155,1991,New Mexico,,,,,,,,,,
+1156,1991,New York,,,,,,,,,,
+1157,1991,North Carolina,,,,,,,,,,
+1158,1991,North Dakota,,,,,,,,,,
+1159,1991,Ohio,,,,,,,,,,
+1160,1991,Oklahoma,,,,,,,,,,
+1161,1991,Oregon,,,,,,,,,,
+1162,1991,Pennsylvania,,,,,,,,,,
+1163,1991,Rhode Island,,,,,,,,,,
+1164,1991,South Carolina,,,,,,,,,,
+1165,1991,South Dakota,,,,,,,,,,
+1166,1991,Tennessee,,,,,,,,,,
+1167,1991,Texas,,,,,,,,,,
+1168,1991,Utah,,,,,,,,,,
+1169,1991,Vermont,,,,,,,,,,
+1170,1991,Virginia,,,,,,,,,,
+1171,1991,Washington,,,,,,,,,,
+1172,1991,West Virginia,,,,,,,,,,
+1173,1991,Wisconsin,,,,,,,,,,
+1174,1991,Wyoming,,,,,,,,,,
+1175,1993,Alabama,,,,,,,,,,
+1176,1993,Alaska,,,,,,,,,,
+1177,1993,Arizona,,,,,,,,,,
+1178,1993,Arkansas,,,,,,,,,,
+1179,1993,California,,,,,,,,,,
+1180,1993,Colorado,,,,,,,,,,
+1181,1993,Connecticut,,,,,,,,,,
+1182,1993,Delaware,,,,,,,,,,
+1183,1993,District of Columbia,,,,,,,,,,
+1184,1993,Florida,,,,,,,,,,
+1185,1993,Georgia,,,,,,,,,,
+1186,1993,Hawaii,,,,,,,,,,
+1187,1993,Idaho,,,,,,,,,,
+1188,1993,Illinois,,,,,,,,,,
+1189,1993,Indiana,,,,,,,,,,
+1190,1993,Iowa,,,,,,,,,,
+1191,1993,Kansas,,,,,,,,,,
+1192,1993,Kentucky,,,,,,,,,,
+1193,1993,Louisiana,,,,,,,,,,
+1194,1993,Maine,,,,,,,,,,
+1195,1993,Maryland,,,,,,,,,,
+1196,1993,Massachusetts,,,,,,,,,,
+1197,1993,Michigan,,,,,,,,,,
+1198,1993,Minnesota,,,,,,,,,,
+1199,1993,Mississippi,,,,,,,,,,
+1200,1993,Missouri,,,,,,,,,,
+1201,1993,Montana,,,,,,,,,,
+1202,1993,Nebraska,,,,,,,,,,
+1203,1993,Nevada,,,,,,,,,,
+1204,1993,New Hampshire,,,,,,,,,,
+1205,1993,New Jersey,,,,,,,,,,
+1206,1993,New Mexico,,,,,,,,,,
+1207,1993,New York,,,,,,,,,,
+1208,1993,North Carolina,,,,,,,,,,
+1209,1993,North Dakota,,,,,,,,,,
+1210,1993,Ohio,,,,,,,,,,
+1211,1993,Oklahoma,,,,,,,,,,
+1212,1993,Oregon,,,,,,,,,,
+1213,1993,Pennsylvania,,,,,,,,,,
+1214,1993,Rhode Island,,,,,,,,,,
+1215,1993,South Carolina,,,,,,,,,,
+1216,1993,South Dakota,,,,,,,,,,
+1217,1993,Tennessee,,,,,,,,,,
+1218,1993,Texas,,,,,,,,,,
+1219,1993,Utah,,,,,,,,,,
+1220,1993,Vermont,,,,,,,,,,
+1221,1993,Virginia,,,,,,,,,,
+1222,1993,Washington,,,,,,,,,,
+1223,1993,West Virginia,,,,,,,,,,
+1224,1993,Wisconsin,,,,,,,,,,
+1225,1993,Wyoming,,,,,,,,,,
+1226,1994,Alabama,,,,,,,,,,
+1227,1994,Alaska,,,,,,,,,,
+1228,1994,Arizona,,,,,,,,,,
+1229,1994,Arkansas,,,,,,,,,,
+1230,1994,California,,,,,,,,,,
+1231,1994,Colorado,,,,,,,,,,
+1232,1994,Connecticut,,,,,,,,,,
+1233,1994,Delaware,,,,,,,,,,
+1234,1994,District of Columbia,,,,,,,,,,
+1235,1994,Florida,,,,,,,,,,
+1236,1994,Georgia,,,,,,,,,,
+1237,1994,Hawaii,,,,,,,,,,
+1238,1994,Idaho,,,,,,,,,,
+1239,1994,Illinois,,,,,,,,,,
+1240,1994,Indiana,,,,,,,,,,
+1241,1994,Iowa,,,,,,,,,,
+1242,1994,Kansas,,,,,,,,,,
+1243,1994,Kentucky,,,,,,,,,,
+1244,1994,Louisiana,,,,,,,,,,
+1245,1994,Maine,,,,,,,,,,
+1246,1994,Maryland,,,,,,,,,,
+1247,1994,Massachusetts,,,,,,,,,,
+1248,1994,Michigan,,,,,,,,,,
+1249,1994,Minnesota,,,,,,,,,,
+1250,1994,Mississippi,,,,,,,,,,
+1251,1994,Missouri,,,,,,,,,,
+1252,1994,Montana,,,,,,,,,,
+1253,1994,Nebraska,,,,,,,,,,
+1254,1994,Nevada,,,,,,,,,,
+1255,1994,New Hampshire,,,,,,,,,,
+1256,1994,New Jersey,,,,,,,,,,
+1257,1994,New Mexico,,,,,,,,,,
+1258,1994,New York,,,,,,,,,,
+1259,1994,North Carolina,,,,,,,,,,
+1260,1994,North Dakota,,,,,,,,,,
+1261,1994,Ohio,,,,,,,,,,
+1262,1994,Oklahoma,,,,,,,,,,
+1263,1994,Oregon,,,,,,,,,,
+1264,1994,Pennsylvania,,,,,,,,,,
+1265,1994,Rhode Island,,,,,,,,,,
+1266,1994,South Carolina,,,,,,,,,,
+1267,1994,South Dakota,,,,,,,,,,
+1268,1994,Tennessee,,,,,,,,,,
+1269,1994,Texas,,,,,,,,,,
+1270,1994,Utah,,,,,,,,,,
+1271,1994,Vermont,,,,,,,,,,
+1272,1994,Virginia,,,,,,,,,,
+1273,1994,Washington,,,,,,,,,,
+1274,1994,West Virginia,,,,,,,,,,
+1275,1994,Wisconsin,,,,,,,,,,
+1276,1994,Wyoming,,,,,,,,,,
+1277,1995,Alabama,,,,,,,,,,
+1278,1995,Alaska,,,,,,,,,,
+1279,1995,Arizona,,,,,,,,,,
+1280,1995,Arkansas,,,,,,,,,,
+1281,1995,California,,,,,,,,,,
+1282,1995,Colorado,,,,,,,,,,
+1283,1995,Connecticut,,,,,,,,,,
+1284,1995,Delaware,,,,,,,,,,
+1285,1995,District of Columbia,,,,,,,,,,
+1286,1995,Florida,,,,,,,,,,
+1287,1995,Georgia,,,,,,,,,,
+1288,1995,Hawaii,,,,,,,,,,
+1289,1995,Idaho,,,,,,,,,,
+1290,1995,Illinois,,,,,,,,,,
+1291,1995,Indiana,,,,,,,,,,
+1292,1995,Iowa,,,,,,,,,,
+1293,1995,Kansas,,,,,,,,,,
+1294,1995,Kentucky,,,,,,,,,,
+1295,1995,Louisiana,,,,,,,,,,
+1296,1995,Maine,,,,,,,,,,
+1297,1995,Maryland,,,,,,,,,,
+1298,1995,Massachusetts,,,,,,,,,,
+1299,1995,Michigan,,,,,,,,,,
+1300,1995,Minnesota,,,,,,,,,,
+1301,1995,Mississippi,,,,,,,,,,
+1302,1995,Missouri,,,,,,,,,,
+1303,1995,Montana,,,,,,,,,,
+1304,1995,Nebraska,,,,,,,,,,
+1305,1995,Nevada,,,,,,,,,,
+1306,1995,New Hampshire,,,,,,,,,,
+1307,1995,New Jersey,,,,,,,,,,
+1308,1995,New Mexico,,,,,,,,,,
+1309,1995,New York,,,,,,,,,,
+1310,1995,North Carolina,,,,,,,,,,
+1311,1995,North Dakota,,,,,,,,,,
+1312,1995,Ohio,,,,,,,,,,
+1313,1995,Oklahoma,,,,,,,,,,
+1314,1995,Oregon,,,,,,,,,,
+1315,1995,Pennsylvania,,,,,,,,,,
+1316,1995,Rhode Island,,,,,,,,,,
+1317,1995,South Carolina,,,,,,,,,,
+1318,1995,South Dakota,,,,,,,,,,
+1319,1995,Tennessee,,,,,,,,,,
+1320,1995,Texas,,,,,,,,,,
+1321,1995,Utah,,,,,,,,,,
+1322,1995,Vermont,,,,,,,,,,
+1323,1995,Virginia,,,,,,,,,,
+1324,1995,Washington,,,,,,,,,,
+1325,1995,West Virginia,,,,,,,,,,
+1326,1995,Wisconsin,,,,,,,,,,
+1327,1995,Wyoming,,,,,,,,,,
+1328,1997,Alabama,,,,,,,,,,
+1329,1997,Alaska,,,,,,,,,,
+1330,1997,Arizona,,,,,,,,,,
+1331,1997,Arkansas,,,,,,,,,,
+1332,1997,California,,,,,,,,,,
+1333,1997,Colorado,,,,,,,,,,
+1334,1997,Connecticut,,,,,,,,,,
+1335,1997,Delaware,,,,,,,,,,
+1336,1997,District of Columbia,,,,,,,,,,
+1337,1997,Florida,,,,,,,,,,
+1338,1997,Georgia,,,,,,,,,,
+1339,1997,Hawaii,,,,,,,,,,
+1340,1997,Idaho,,,,,,,,,,
+1341,1997,Illinois,,,,,,,,,,
+1342,1997,Indiana,,,,,,,,,,
+1343,1997,Iowa,,,,,,,,,,
+1344,1997,Kansas,,,,,,,,,,
+1345,1997,Kentucky,,,,,,,,,,
+1346,1997,Louisiana,,,,,,,,,,
+1347,1997,Maine,,,,,,,,,,
+1348,1997,Maryland,,,,,,,,,,
+1349,1997,Massachusetts,,,,,,,,,,
+1350,1997,Michigan,,,,,,,,,,
+1351,1997,Minnesota,,,,,,,,,,
+1352,1997,Mississippi,,,,,,,,,,
+1353,1997,Missouri,,,,,,,,,,
+1354,1997,Montana,,,,,,,,,,
+1355,1997,Nebraska,,,,,,,,,,
+1356,1997,Nevada,,,,,,,,,,
+1357,1997,New Hampshire,,,,,,,,,,
+1358,1997,New Jersey,,,,,,,,,,
+1359,1997,New Mexico,,,,,,,,,,
+1360,1997,New York,,,,,,,,,,
+1361,1997,North Carolina,,,,,,,,,,
+1362,1997,North Dakota,,,,,,,,,,
+1363,1997,Ohio,,,,,,,,,,
+1364,1997,Oklahoma,,,,,,,,,,
+1365,1997,Oregon,,,,,,,,,,
+1366,1997,Pennsylvania,,,,,,,,,,
+1367,1997,Rhode Island,,,,,,,,,,
+1368,1997,South Carolina,,,,,,,,,,
+1369,1997,South Dakota,,,,,,,,,,
+1370,1997,Tennessee,,,,,,,,,,
+1371,1997,Texas,,,,,,,,,,
+1372,1997,Utah,,,,,,,,,,
+1373,1997,Vermont,,,,,,,,,,
+1374,1997,Virginia,,,,,,,,,,
+1375,1997,Washington,,,,,,,,,,
+1376,1997,West Virginia,,,,,,,,,,
+1377,1997,Wisconsin,,,,,,,,,,
+1378,1997,Wyoming,,,,,,,,,,
+1379,1998,Alabama,,,,,,,,,,
+1380,1998,Alaska,,,,,,,,,,
+1381,1998,Arizona,,,,,,,,,,
+1382,1998,Arkansas,,,,,,,,,,
+1383,1998,California,,,,,,,,,,
+1384,1998,Colorado,,,,,,,,,,
+1385,1998,Connecticut,,,,,,,,,,
+1386,1998,Delaware,,,,,,,,,,
+1387,1998,District of Columbia,,,,,,,,,,
+1388,1998,Florida,,,,,,,,,,
+1389,1998,Georgia,,,,,,,,,,
+1390,1998,Hawaii,,,,,,,,,,
+1391,1998,Idaho,,,,,,,,,,
+1392,1998,Illinois,,,,,,,,,,
+1393,1998,Indiana,,,,,,,,,,
+1394,1998,Iowa,,,,,,,,,,
+1395,1998,Kansas,,,,,,,,,,
+1396,1998,Kentucky,,,,,,,,,,
+1397,1998,Louisiana,,,,,,,,,,
+1398,1998,Maine,,,,,,,,,,
+1399,1998,Maryland,,,,,,,,,,
+1400,1998,Massachusetts,,,,,,,,,,
+1401,1998,Michigan,,,,,,,,,,
+1402,1998,Minnesota,,,,,,,,,,
+1403,1998,Mississippi,,,,,,,,,,
+1404,1998,Missouri,,,,,,,,,,
+1405,1998,Montana,,,,,,,,,,
+1406,1998,Nebraska,,,,,,,,,,
+1407,1998,Nevada,,,,,,,,,,
+1408,1998,New Hampshire,,,,,,,,,,
+1409,1998,New Jersey,,,,,,,,,,
+1410,1998,New Mexico,,,,,,,,,,
+1411,1998,New York,,,,,,,,,,
+1412,1998,North Carolina,,,,,,,,,,
+1413,1998,North Dakota,,,,,,,,,,
+1414,1998,Ohio,,,,,,,,,,
+1415,1998,Oklahoma,,,,,,,,,,
+1416,1998,Oregon,,,,,,,,,,
+1417,1998,Pennsylvania,,,,,,,,,,
+1418,1998,Rhode Island,,,,,,,,,,
+1419,1998,South Carolina,,,,,,,,,,
+1420,1998,South Dakota,,,,,,,,,,
+1421,1998,Tennessee,,,,,,,,,,
+1422,1998,Texas,,,,,,,,,,
+1423,1998,Utah,,,,,,,,,,
+1424,1998,Vermont,,,,,,,,,,
+1425,1998,Virginia,,,,,,,,,,
+1426,1998,Washington,,,,,,,,,,
+1427,1998,West Virginia,,,,,,,,,,
+1428,1998,Wisconsin,,,,,,,,,,
+1429,1998,Wyoming,,,,,,,,,,
+1430,1999,Alabama,,,,,,,,,,
+1431,1999,Alaska,,,,,,,,,,
+1432,1999,Arizona,,,,,,,,,,
+1433,1999,Arkansas,,,,,,,,,,
+1434,1999,California,,,,,,,,,,
+1435,1999,Colorado,,,,,,,,,,
+1436,1999,Connecticut,,,,,,,,,,
+1437,1999,Delaware,,,,,,,,,,
+1438,1999,District of Columbia,,,,,,,,,,
+1439,1999,Florida,,,,,,,,,,
+1440,1999,Georgia,,,,,,,,,,
+1441,1999,Hawaii,,,,,,,,,,
+1442,1999,Idaho,,,,,,,,,,
+1443,1999,Illinois,,,,,,,,,,
+1444,1999,Indiana,,,,,,,,,,
+1445,1999,Iowa,,,,,,,,,,
+1446,1999,Kansas,,,,,,,,,,
+1447,1999,Kentucky,,,,,,,,,,
+1448,1999,Louisiana,,,,,,,,,,
+1449,1999,Maine,,,,,,,,,,
+1450,1999,Maryland,,,,,,,,,,
+1451,1999,Massachusetts,,,,,,,,,,
+1452,1999,Michigan,,,,,,,,,,
+1453,1999,Minnesota,,,,,,,,,,
+1454,1999,Mississippi,,,,,,,,,,
+1455,1999,Missouri,,,,,,,,,,
+1456,1999,Montana,,,,,,,,,,
+1457,1999,Nebraska,,,,,,,,,,
+1458,1999,Nevada,,,,,,,,,,
+1459,1999,New Hampshire,,,,,,,,,,
+1460,1999,New Jersey,,,,,,,,,,
+1461,1999,New Mexico,,,,,,,,,,
+1462,1999,New York,,,,,,,,,,
+1463,1999,North Carolina,,,,,,,,,,
+1464,1999,North Dakota,,,,,,,,,,
+1465,1999,Ohio,,,,,,,,,,
+1466,1999,Oklahoma,,,,,,,,,,
+1467,1999,Oregon,,,,,,,,,,
+1468,1999,Pennsylvania,,,,,,,,,,
+1469,1999,Rhode Island,,,,,,,,,,
+1470,1999,South Carolina,,,,,,,,,,
+1471,1999,South Dakota,,,,,,,,,,
+1472,1999,Tennessee,,,,,,,,,,
+1473,1999,Texas,,,,,,,,,,
+1474,1999,Utah,,,,,,,,,,
+1475,1999,Vermont,,,,,,,,,,
+1476,1999,Virginia,,,,,,,,,,
+1477,1999,Washington,,,,,,,,,,
+1478,1999,West Virginia,,,,,,,,,,
+1479,1999,Wisconsin,,,,,,,,,,
+1480,1999,Wyoming,,,,,,,,,,
+1481,2001,Alabama,,,,,,,,,,
+1482,2001,Alaska,,,,,,,,,,
+1483,2001,Arizona,,,,,,,,,,
+1484,2001,Arkansas,,,,,,,,,,
+1485,2001,California,,,,,,,,,,
+1486,2001,Colorado,,,,,,,,,,
+1487,2001,Connecticut,,,,,,,,,,
+1488,2001,Delaware,,,,,,,,,,
+1489,2001,District of Columbia,,,,,,,,,,
+1490,2001,Florida,,,,,,,,,,
+1491,2001,Georgia,,,,,,,,,,
+1492,2001,Hawaii,,,,,,,,,,
+1493,2001,Idaho,,,,,,,,,,
+1494,2001,Illinois,,,,,,,,,,
+1495,2001,Indiana,,,,,,,,,,
+1496,2001,Iowa,,,,,,,,,,
+1497,2001,Kansas,,,,,,,,,,
+1498,2001,Kentucky,,,,,,,,,,
+1499,2001,Louisiana,,,,,,,,,,
+1500,2001,Maine,,,,,,,,,,
+1501,2001,Maryland,,,,,,,,,,
+1502,2001,Massachusetts,,,,,,,,,,
+1503,2001,Michigan,,,,,,,,,,
+1504,2001,Minnesota,,,,,,,,,,
+1505,2001,Mississippi,,,,,,,,,,
+1506,2001,Missouri,,,,,,,,,,
+1507,2001,Montana,,,,,,,,,,
+1508,2001,Nebraska,,,,,,,,,,
+1509,2001,Nevada,,,,,,,,,,
+1510,2001,New Hampshire,,,,,,,,,,
+1511,2001,New Jersey,,,,,,,,,,
+1512,2001,New Mexico,,,,,,,,,,
+1513,2001,New York,,,,,,,,,,
+1514,2001,North Carolina,,,,,,,,,,
+1515,2001,North Dakota,,,,,,,,,,
+1516,2001,Ohio,,,,,,,,,,
+1517,2001,Oklahoma,,,,,,,,,,
+1518,2001,Oregon,,,,,,,,,,
+1519,2001,Pennsylvania,,,,,,,,,,
+1520,2001,Rhode Island,,,,,,,,,,
+1521,2001,South Carolina,,,,,,,,,,
+1522,2001,South Dakota,,,,,,,,,,
+1523,2001,Tennessee,,,,,,,,,,
+1524,2001,Texas,,,,,,,,,,
+1525,2001,Utah,,,,,,,,,,
+1526,2001,Vermont,,,,,,,,,,
+1527,2001,Virginia,,,,,,,,,,
+1528,2001,Washington,,,,,,,,,,
+1529,2001,West Virginia,,,,,,,,,,
+1530,2001,Wisconsin,,,,,,,,,,
+1531,2001,Wyoming,,,,,,,,,,
+1532,2002,Alabama,,,,,,,,,,
+1533,2002,Alaska,,,,,,,,,,
+1534,2002,Arizona,,,,,,,,,,
+1535,2002,Arkansas,,,,,,,,,,
+1536,2002,California,,,,,,,,,,
+1537,2002,Colorado,,,,,,,,,,
+1538,2002,Connecticut,,,,,,,,,,
+1539,2002,Delaware,,,,,,,,,,
+1540,2002,District of Columbia,,,,,,,,,,
+1541,2002,Florida,,,,,,,,,,
+1542,2002,Georgia,,,,,,,,,,
+1543,2002,Hawaii,,,,,,,,,,
+1544,2002,Idaho,,,,,,,,,,
+1545,2002,Illinois,,,,,,,,,,
+1546,2002,Indiana,,,,,,,,,,
+1547,2002,Iowa,,,,,,,,,,
+1548,2002,Kansas,,,,,,,,,,
+1549,2002,Kentucky,,,,,,,,,,
+1550,2002,Louisiana,,,,,,,,,,
+1551,2002,Maine,,,,,,,,,,
+1552,2002,Maryland,,,,,,,,,,
+1553,2002,Massachusetts,,,,,,,,,,
+1554,2002,Michigan,,,,,,,,,,
+1555,2002,Minnesota,,,,,,,,,,
+1556,2002,Mississippi,,,,,,,,,,
+1557,2002,Missouri,,,,,,,,,,
+1558,2002,Montana,,,,,,,,,,
+1559,2002,Nebraska,,,,,,,,,,
+1560,2002,Nevada,,,,,,,,,,
+1561,2002,New Hampshire,,,,,,,,,,
+1562,2002,New Jersey,,,,,,,,,,
+1563,2002,New Mexico,,,,,,,,,,
+1564,2002,New York,,,,,,,,,,
+1565,2002,North Carolina,,,,,,,,,,
+1566,2002,North Dakota,,,,,,,,,,
+1567,2002,Ohio,,,,,,,,,,
+1568,2002,Oklahoma,,,,,,,,,,
+1569,2002,Oregon,,,,,,,,,,
+1570,2002,Pennsylvania,,,,,,,,,,
+1571,2002,Rhode Island,,,,,,,,,,
+1572,2002,South Carolina,,,,,,,,,,
+1573,2002,South Dakota,,,,,,,,,,
+1574,2002,Tennessee,,,,,,,,,,
+1575,2002,Texas,,,,,,,,,,
+1576,2002,Utah,,,,,,,,,,
+1577,2002,Vermont,,,,,,,,,,
+1578,2002,Virginia,,,,,,,,,,
+1579,2002,Washington,,,,,,,,,,
+1580,2002,West Virginia,,,,,,,,,,
+1581,2002,Wisconsin,,,,,,,,,,
+1582,2002,Wyoming,,,,,,,,,,
+1583,2003,Alabama,,,,,,,,,,
+1584,2003,Alaska,,,,,,,,,,
+1585,2003,Arizona,,,,,,,,,,
+1586,2003,Arkansas,,,,,,,,,,
+1587,2003,California,,,,,,,,,,
+1588,2003,Colorado,,,,,,,,,,
+1589,2003,Connecticut,,,,,,,,,,
+1590,2003,Delaware,,,,,,,,,,
+1591,2003,District of Columbia,,,,,,,,,,
+1592,2003,Florida,,,,,,,,,,
+1593,2003,Georgia,,,,,,,,,,
+1594,2003,Hawaii,,,,,,,,,,
+1595,2003,Idaho,,,,,,,,,,
+1596,2003,Illinois,,,,,,,,,,
+1597,2003,Indiana,,,,,,,,,,
+1598,2003,Iowa,,,,,,,,,,
+1599,2003,Kansas,,,,,,,,,,
+1600,2003,Kentucky,,,,,,,,,,
+1601,2003,Louisiana,,,,,,,,,,
+1602,2003,Maine,,,,,,,,,,
+1603,2003,Maryland,,,,,,,,,,
+1604,2003,Massachusetts,,,,,,,,,,
+1605,2003,Michigan,,,,,,,,,,
+1606,2003,Minnesota,,,,,,,,,,
+1607,2003,Mississippi,,,,,,,,,,
+1608,2003,Missouri,,,,,,,,,,
+1609,2003,Montana,,,,,,,,,,
+1610,2003,Nebraska,,,,,,,,,,
+1611,2003,Nevada,,,,,,,,,,
+1612,2003,New Hampshire,,,,,,,,,,
+1613,2003,New Jersey,,,,,,,,,,
+1614,2003,New Mexico,,,,,,,,,,
+1615,2003,New York,,,,,,,,,,
+1616,2003,North Carolina,,,,,,,,,,
+1617,2003,North Dakota,,,,,,,,,,
+1618,2003,Ohio,,,,,,,,,,
+1619,2003,Oklahoma,,,,,,,,,,
+1620,2003,Oregon,,,,,,,,,,
+1621,2003,Pennsylvania,,,,,,,,,,
+1622,2003,Rhode Island,,,,,,,,,,
+1623,2003,South Carolina,,,,,,,,,,
+1624,2003,South Dakota,,,,,,,,,,
+1625,2003,Tennessee,,,,,,,,,,
+1626,2003,Texas,,,,,,,,,,
+1627,2003,Utah,,,,,,,,,,
+1628,2003,Vermont,,,,,,,,,,
+1629,2003,Virginia,,,,,,,,,,
+1630,2003,Washington,,,,,,,,,,
+1631,2003,West Virginia,,,,,,,,,,
+1632,2003,Wisconsin,,,,,,,,,,
+1633,2003,Wyoming,,,,,,,,,,
+1634,2005,Alabama,,,,,,,,,,
+1635,2005,Alaska,,,,,,,,,,
+1636,2005,Arizona,,,,,,,,,,
+1637,2005,Arkansas,,,,,,,,,,
+1638,2005,California,,,,,,,,,,
+1639,2005,Colorado,,,,,,,,,,
+1640,2005,Connecticut,,,,,,,,,,
+1641,2005,Delaware,,,,,,,,,,
+1642,2005,District of Columbia,,,,,,,,,,
+1643,2005,Florida,,,,,,,,,,
+1644,2005,Georgia,,,,,,,,,,
+1645,2005,Hawaii,,,,,,,,,,
+1646,2005,Idaho,,,,,,,,,,
+1647,2005,Illinois,,,,,,,,,,
+1648,2005,Indiana,,,,,,,,,,
+1649,2005,Iowa,,,,,,,,,,
+1650,2005,Kansas,,,,,,,,,,
+1651,2005,Kentucky,,,,,,,,,,
+1652,2005,Louisiana,,,,,,,,,,
+1653,2005,Maine,,,,,,,,,,
+1654,2005,Maryland,,,,,,,,,,
+1655,2005,Massachusetts,,,,,,,,,,
+1656,2005,Michigan,,,,,,,,,,
+1657,2005,Minnesota,,,,,,,,,,
+1658,2005,Mississippi,,,,,,,,,,
+1659,2005,Missouri,,,,,,,,,,
+1660,2005,Montana,,,,,,,,,,
+1661,2005,Nebraska,,,,,,,,,,
+1662,2005,Nevada,,,,,,,,,,
+1663,2005,New Hampshire,,,,,,,,,,
+1664,2005,New Jersey,,,,,,,,,,
+1665,2005,New Mexico,,,,,,,,,,
+1666,2005,New York,,,,,,,,,,
+1667,2005,North Carolina,,,,,,,,,,
+1668,2005,North Dakota,,,,,,,,,,
+1669,2005,Ohio,,,,,,,,,,
+1670,2005,Oklahoma,,,,,,,,,,
+1671,2005,Oregon,,,,,,,,,,
+1672,2005,Pennsylvania,,,,,,,,,,
+1673,2005,Rhode Island,,,,,,,,,,
+1674,2005,South Carolina,,,,,,,,,,
+1675,2005,South Dakota,,,,,,,,,,
+1676,2005,Tennessee,,,,,,,,,,
+1677,2005,Texas,,,,,,,,,,
+1678,2005,Utah,,,,,,,,,,
+1679,2005,Vermont,,,,,,,,,,
+1680,2005,Virginia,,,,,,,,,,
+1681,2005,Washington,,,,,,,,,,
+1682,2005,West Virginia,,,,,,,,,,
+1683,2005,Wisconsin,,,,,,,,,,
+1684,2005,Wyoming,,,,,,,,,,
+1685,2006,Alabama,,,,,,,,,,
+1686,2006,Alaska,,,,,,,,,,
+1687,2006,Arizona,,,,,,,,,,
+1688,2006,Arkansas,,,,,,,,,,
+1689,2006,California,,,,,,,,,,
+1690,2006,Colorado,,,,,,,,,,
+1691,2006,Connecticut,,,,,,,,,,
+1692,2006,Delaware,,,,,,,,,,
+1693,2006,District of Columbia,,,,,,,,,,
+1694,2006,Florida,,,,,,,,,,
+1695,2006,Georgia,,,,,,,,,,
+1696,2006,Hawaii,,,,,,,,,,
+1697,2006,Idaho,,,,,,,,,,
+1698,2006,Illinois,,,,,,,,,,
+1699,2006,Indiana,,,,,,,,,,
+1700,2006,Iowa,,,,,,,,,,
+1701,2006,Kansas,,,,,,,,,,
+1702,2006,Kentucky,,,,,,,,,,
+1703,2006,Louisiana,,,,,,,,,,
+1704,2006,Maine,,,,,,,,,,
+1705,2006,Maryland,,,,,,,,,,
+1706,2006,Massachusetts,,,,,,,,,,
+1707,2006,Michigan,,,,,,,,,,
+1708,2006,Minnesota,,,,,,,,,,
+1709,2006,Mississippi,,,,,,,,,,
+1710,2006,Missouri,,,,,,,,,,
+1711,2006,Montana,,,,,,,,,,
+1712,2006,Nebraska,,,,,,,,,,
+1713,2006,Nevada,,,,,,,,,,
+1714,2006,New Hampshire,,,,,,,,,,
+1715,2006,New Jersey,,,,,,,,,,
+1716,2006,New Mexico,,,,,,,,,,
+1717,2006,New York,,,,,,,,,,
+1718,2006,North Carolina,,,,,,,,,,
+1719,2006,North Dakota,,,,,,,,,,
+1720,2006,Ohio,,,,,,,,,,
+1721,2006,Oklahoma,,,,,,,,,,
+1722,2006,Oregon,,,,,,,,,,
+1723,2006,Pennsylvania,,,,,,,,,,
+1724,2006,Rhode Island,,,,,,,,,,
+1725,2006,South Carolina,,,,,,,,,,
+1726,2006,South Dakota,,,,,,,,,,
+1727,2006,Tennessee,,,,,,,,,,
+1728,2006,Texas,,,,,,,,,,
+1729,2006,Utah,,,,,,,,,,
+1730,2006,Vermont,,,,,,,,,,
+1731,2006,Virginia,,,,,,,,,,
+1732,2006,Washington,,,,,,,,,,
+1733,2006,West Virginia,,,,,,,,,,
+1734,2006,Wisconsin,,,,,,,,,,
+1735,2006,Wyoming,,,,,,,,,,
+1736,2007,Alabama,,,,,,,,,,
+1737,2007,Alaska,,,,,,,,,,
+1738,2007,Arizona,,,,,,,,,,
+1739,2007,Arkansas,,,,,,,,,,
+1740,2007,California,,,,,,,,,,
+1741,2007,Colorado,,,,,,,,,,
+1742,2007,Connecticut,,,,,,,,,,
+1743,2007,Delaware,,,,,,,,,,
+1744,2007,District of Columbia,,,,,,,,,,
+1745,2007,Florida,,,,,,,,,,
+1746,2007,Georgia,,,,,,,,,,
+1747,2007,Hawaii,,,,,,,,,,
+1748,2007,Idaho,,,,,,,,,,
+1749,2007,Illinois,,,,,,,,,,
+1750,2007,Indiana,,,,,,,,,,
+1751,2007,Iowa,,,,,,,,,,
+1752,2007,Kansas,,,,,,,,,,
+1753,2007,Kentucky,,,,,,,,,,
+1754,2007,Louisiana,,,,,,,,,,
+1755,2007,Maine,,,,,,,,,,
+1756,2007,Maryland,,,,,,,,,,
+1757,2007,Massachusetts,,,,,,,,,,
+1758,2007,Michigan,,,,,,,,,,
+1759,2007,Minnesota,,,,,,,,,,
+1760,2007,Mississippi,,,,,,,,,,
+1761,2007,Missouri,,,,,,,,,,
+1762,2007,Montana,,,,,,,,,,
+1763,2007,Nebraska,,,,,,,,,,
+1764,2007,Nevada,,,,,,,,,,
+1765,2007,New Hampshire,,,,,,,,,,
+1766,2007,New Jersey,,,,,,,,,,
+1767,2007,New Mexico,,,,,,,,,,
+1768,2007,New York,,,,,,,,,,
+1769,2007,North Carolina,,,,,,,,,,
+1770,2007,North Dakota,,,,,,,,,,
+1771,2007,Ohio,,,,,,,,,,
+1772,2007,Oklahoma,,,,,,,,,,
+1773,2007,Oregon,,,,,,,,,,
+1774,2007,Pennsylvania,,,,,,,,,,
+1775,2007,Rhode Island,,,,,,,,,,
+1776,2007,South Carolina,,,,,,,,,,
+1777,2007,South Dakota,,,,,,,,,,
+1778,2007,Tennessee,,,,,,,,,,
+1779,2007,Texas,,,,,,,,,,
+1780,2007,Utah,,,,,,,,,,
+1781,2007,Vermont,,,,,,,,,,
+1782,2007,Virginia,,,,,,,,,,
+1783,2007,Washington,,,,,,,,,,
+1784,2007,West Virginia,,,,,,,,,,
+1785,2007,Wisconsin,,,,,,,,,,
+1786,2007,Wyoming,,,,,,,,,,
+1787,2009,Alabama,,,,,,,,,,
+1788,2009,Alaska,,,,,,,,,,
+1789,2009,Arizona,,,,,,,,,,
+1790,2009,Arkansas,,,,,,,,,,
+1791,2009,California,,,,,,,,,,
+1792,2009,Colorado,,,,,,,,,,
+1793,2009,Connecticut,,,,,,,,,,
+1794,2009,Delaware,,,,,,,,,,
+1795,2009,District of Columbia,,,,,,,,,,
+1796,2009,Florida,,,,,,,,,,
+1797,2009,Georgia,,,,,,,,,,
+1798,2009,Hawaii,,,,,,,,,,
+1799,2009,Idaho,,,,,,,,,,
+1800,2009,Illinois,,,,,,,,,,
+1801,2009,Indiana,,,,,,,,,,
+1802,2009,Iowa,,,,,,,,,,
+1803,2009,Kansas,,,,,,,,,,
+1804,2009,Kentucky,,,,,,,,,,
+1805,2009,Louisiana,,,,,,,,,,
+1806,2009,Maine,,,,,,,,,,
+1807,2009,Maryland,,,,,,,,,,
+1808,2009,Massachusetts,,,,,,,,,,
+1809,2009,Michigan,,,,,,,,,,
+1810,2009,Minnesota,,,,,,,,,,
+1811,2009,Mississippi,,,,,,,,,,
+1812,2009,Missouri,,,,,,,,,,
+1813,2009,Montana,,,,,,,,,,
+1814,2009,Nebraska,,,,,,,,,,
+1815,2009,Nevada,,,,,,,,,,
+1816,2009,New Hampshire,,,,,,,,,,
+1817,2009,New Jersey,,,,,,,,,,
+1818,2009,New Mexico,,,,,,,,,,
+1819,2009,New York,,,,,,,,,,
+1820,2009,North Carolina,,,,,,,,,,
+1821,2009,North Dakota,,,,,,,,,,
+1822,2009,Ohio,,,,,,,,,,
+1823,2009,Oklahoma,,,,,,,,,,
+1824,2009,Oregon,,,,,,,,,,
+1825,2009,Pennsylvania,,,,,,,,,,
+1826,2009,Rhode Island,,,,,,,,,,
+1827,2009,South Carolina,,,,,,,,,,
+1828,2009,South Dakota,,,,,,,,,,
+1829,2009,Tennessee,,,,,,,,,,
+1830,2009,Texas,,,,,,,,,,
+1831,2009,Utah,,,,,,,,,,
+1832,2009,Vermont,,,,,,,,,,
+1833,2009,Virginia,,,,,,,,,,
+1834,2009,Washington,,,,,,,,,,
+1835,2009,West Virginia,,,,,,,,,,
+1836,2009,Wisconsin,,,,,,,,,,
+1837,2009,Wyoming,,,,,,,,,,
+1838,2010,Alabama,,,,,,,,,,
+1839,2010,Alaska,,,,,,,,,,
+1840,2010,Arizona,,,,,,,,,,
+1841,2010,Arkansas,,,,,,,,,,
+1842,2010,California,,,,,,,,,,
+1843,2010,Colorado,,,,,,,,,,
+1844,2010,Connecticut,,,,,,,,,,
+1845,2010,Delaware,,,,,,,,,,
+1846,2010,District of Columbia,,,,,,,,,,
+1847,2010,Florida,,,,,,,,,,
+1848,2010,Georgia,,,,,,,,,,
+1849,2010,Hawaii,,,,,,,,,,
+1850,2010,Idaho,,,,,,,,,,
+1851,2010,Illinois,,,,,,,,,,
+1852,2010,Indiana,,,,,,,,,,
+1853,2010,Iowa,,,,,,,,,,
+1854,2010,Kansas,,,,,,,,,,
+1855,2010,Kentucky,,,,,,,,,,
+1856,2010,Louisiana,,,,,,,,,,
+1857,2010,Maine,,,,,,,,,,
+1858,2010,Maryland,,,,,,,,,,
+1859,2010,Massachusetts,,,,,,,,,,
+1860,2010,Michigan,,,,,,,,,,
+1861,2010,Minnesota,,,,,,,,,,
+1862,2010,Mississippi,,,,,,,,,,
+1863,2010,Missouri,,,,,,,,,,
+1864,2010,Montana,,,,,,,,,,
+1865,2010,Nebraska,,,,,,,,,,
+1866,2010,Nevada,,,,,,,,,,
+1867,2010,New Hampshire,,,,,,,,,,
+1868,2010,New Jersey,,,,,,,,,,
+1869,2010,New Mexico,,,,,,,,,,
+1870,2010,New York,,,,,,,,,,
+1871,2010,North Carolina,,,,,,,,,,
+1872,2010,North Dakota,,,,,,,,,,
+1873,2010,Ohio,,,,,,,,,,
+1874,2010,Oklahoma,,,,,,,,,,
+1875,2010,Oregon,,,,,,,,,,
+1876,2010,Pennsylvania,,,,,,,,,,
+1877,2010,Rhode Island,,,,,,,,,,
+1878,2010,South Carolina,,,,,,,,,,
+1879,2010,South Dakota,,,,,,,,,,
+1880,2010,Tennessee,,,,,,,,,,
+1881,2010,Texas,,,,,,,,,,
+1882,2010,Utah,,,,,,,,,,
+1883,2010,Vermont,,,,,,,,,,
+1884,2010,Virginia,,,,,,,,,,
+1885,2010,Washington,,,,,,,,,,
+1886,2010,West Virginia,,,,,,,,,,
+1887,2010,Wisconsin,,,,,,,,,,
+1888,2010,Wyoming,,,,,,,,,,
+1889,2011,Alabama,,,,,,,,,,
+1890,2011,Alaska,,,,,,,,,,
+1891,2011,Arizona,,,,,,,,,,
+1892,2011,Arkansas,,,,,,,,,,
+1893,2011,California,,,,,,,,,,
+1894,2011,Colorado,,,,,,,,,,
+1895,2011,Connecticut,,,,,,,,,,
+1896,2011,Delaware,,,,,,,,,,
+1897,2011,District of Columbia,,,,,,,,,,
+1898,2011,Florida,,,,,,,,,,
+1899,2011,Georgia,,,,,,,,,,
+1900,2011,Hawaii,,,,,,,,,,
+1901,2011,Idaho,,,,,,,,,,
+1902,2011,Illinois,,,,,,,,,,
+1903,2011,Indiana,,,,,,,,,,
+1904,2011,Iowa,,,,,,,,,,
+1905,2011,Kansas,,,,,,,,,,
+1906,2011,Kentucky,,,,,,,,,,
+1907,2011,Louisiana,,,,,,,,,,
+1908,2011,Maine,,,,,,,,,,
+1909,2011,Maryland,,,,,,,,,,
+1910,2011,Massachusetts,,,,,,,,,,
+1911,2011,Michigan,,,,,,,,,,
+1912,2011,Minnesota,,,,,,,,,,
+1913,2011,Mississippi,,,,,,,,,,
+1914,2011,Missouri,,,,,,,,,,
+1915,2011,Montana,,,,,,,,,,
+1916,2011,Nebraska,,,,,,,,,,
+1917,2011,Nevada,,,,,,,,,,
+1918,2011,New Hampshire,,,,,,,,,,
+1919,2011,New Jersey,,,,,,,,,,
+1920,2011,New Mexico,,,,,,,,,,
+1921,2011,New York,,,,,,,,,,
+1922,2011,North Carolina,,,,,,,,,,
+1923,2011,North Dakota,,,,,,,,,,
+1924,2011,Ohio,,,,,,,,,,
+1925,2011,Oklahoma,,,,,,,,,,
+1926,2011,Oregon,,,,,,,,,,
+1927,2011,Pennsylvania,,,,,,,,,,
+1928,2011,Rhode Island,,,,,,,,,,
+1929,2011,South Carolina,,,,,,,,,,
+1930,2011,South Dakota,,,,,,,,,,
+1931,2011,Tennessee,,,,,,,,,,
+1932,2011,Texas,,,,,,,,,,
+1933,2011,Utah,,,,,,,,,,
+1934,2011,Vermont,,,,,,,,,,
+1935,2011,Virginia,,,,,,,,,,
+1936,2011,Washington,,,,,,,,,,
+1937,2011,West Virginia,,,,,,,,,,
+1938,2011,Wisconsin,,,,,,,,,,
+1939,2011,Wyoming,,,,,,,,,,
+1940,2013,Alabama,,,,,,,,,,
+1941,2013,Alaska,,,,,,,,,,
+1942,2013,Arizona,,,,,,,,,,
+1943,2013,Arkansas,,,,,,,,,,
+1944,2013,California,,,,,,,,,,
+1945,2013,Colorado,,,,,,,,,,
+1946,2013,Connecticut,,,,,,,,,,
+1947,2013,Delaware,,,,,,,,,,
+1948,2013,District of Columbia,,,,,,,,,,
+1949,2013,Florida,,,,,,,,,,
+1950,2013,Georgia,,,,,,,,,,
+1951,2013,Hawaii,,,,,,,,,,
+1952,2013,Idaho,,,,,,,,,,
+1953,2013,Illinois,,,,,,,,,,
+1954,2013,Indiana,,,,,,,,,,
+1955,2013,Iowa,,,,,,,,,,
+1956,2013,Kansas,,,,,,,,,,
+1957,2013,Kentucky,,,,,,,,,,
+1958,2013,Louisiana,,,,,,,,,,
+1959,2013,Maine,,,,,,,,,,
+1960,2013,Maryland,,,,,,,,,,
+1961,2013,Massachusetts,,,,,,,,,,
+1962,2013,Michigan,,,,,,,,,,
+1963,2013,Minnesota,,,,,,,,,,
+1964,2013,Mississippi,,,,,,,,,,
+1965,2013,Missouri,,,,,,,,,,
+1966,2013,Montana,,,,,,,,,,
+1967,2013,Nebraska,,,,,,,,,,
+1968,2013,Nevada,,,,,,,,,,
+1969,2013,New Hampshire,,,,,,,,,,
+1970,2013,New Jersey,,,,,,,,,,
+1971,2013,New Mexico,,,,,,,,,,
+1972,2013,New York,,,,,,,,,,
+1973,2013,North Carolina,,,,,,,,,,
+1974,2013,North Dakota,,,,,,,,,,
+1975,2013,Ohio,,,,,,,,,,
+1976,2013,Oklahoma,,,,,,,,,,
+1977,2013,Oregon,,,,,,,,,,
+1978,2013,Pennsylvania,,,,,,,,,,
+1979,2013,Rhode Island,,,,,,,,,,
+1980,2013,South Carolina,,,,,,,,,,
+1981,2013,South Dakota,,,,,,,,,,
+1982,2013,Tennessee,,,,,,,,,,
+1983,2013,Texas,,,,,,,,,,
+1984,2013,Utah,,,,,,,,,,
+1985,2013,Vermont,,,,,,,,,,
+1986,2013,Virginia,,,,,,,,,,
+1987,2013,Washington,,,,,,,,,,
+1988,2013,West Virginia,,,,,,,,,,
+1989,2013,Wisconsin,,,,,,,,,,
+1990,2013,Wyoming,,,,,,,,,,
+1991,2014,Alabama,,,,,,,,,,
+1992,2014,Alaska,,,,,,,,,,
+1993,2014,Arizona,,,,,,,,,,
+1994,2014,Arkansas,,,,,,,,,,
+1995,2014,California,,,,,,,,,,
+1996,2014,Colorado,,,,,,,,,,
+1997,2014,Connecticut,,,,,,,,,,
+1998,2014,Delaware,,,,,,,,,,
+1999,2014,District of Columbia,,,,,,,,,,
+2000,2014,Florida,,,,,,,,,,
+2001,2014,Georgia,,,,,,,,,,
+2002,2014,Hawaii,,,,,,,,,,
+2003,2014,Idaho,,,,,,,,,,
+2004,2014,Illinois,,,,,,,,,,
+2005,2014,Indiana,,,,,,,,,,
+2006,2014,Iowa,,,,,,,,,,
+2007,2014,Kansas,,,,,,,,,,
+2008,2014,Kentucky,,,,,,,,,,
+2009,2014,Louisiana,,,,,,,,,,
+2010,2014,Maine,,,,,,,,,,
+2011,2014,Maryland,,,,,,,,,,
+2012,2014,Massachusetts,,,,,,,,,,
+2013,2014,Michigan,,,,,,,,,,
+2014,2014,Minnesota,,,,,,,,,,
+2015,2014,Mississippi,,,,,,,,,,
+2016,2014,Missouri,,,,,,,,,,
+2017,2014,Montana,,,,,,,,,,
+2018,2014,Nebraska,,,,,,,,,,
+2019,2014,Nevada,,,,,,,,,,
+2020,2014,New Hampshire,,,,,,,,,,
+2021,2014,New Jersey,,,,,,,,,,
+2022,2014,New Mexico,,,,,,,,,,
+2023,2014,New York,,,,,,,,,,
+2024,2014,North Carolina,,,,,,,,,,
+2025,2014,North Dakota,,,,,,,,,,
+2026,2014,Ohio,,,,,,,,,,
+2027,2014,Oklahoma,,,,,,,,,,
+2028,2014,Oregon,,,,,,,,,,
+2029,2014,Pennsylvania,,,,,,,,,,
+2030,2014,Rhode Island,,,,,,,,,,
+2031,2014,South Carolina,,,,,,,,,,
+2032,2014,South Dakota,,,,,,,,,,
+2033,2014,Tennessee,,,,,,,,,,
+2034,2014,Texas,,,,,,,,,,
+2035,2014,Utah,,,,,,,,,,
+2036,2014,Vermont,,,,,,,,,,
+2037,2014,Virginia,,,,,,,,,,
+2038,2014,Washington,,,,,,,,,,
+2039,2014,West Virginia,,,,,,,,,,
+2040,2014,Wisconsin,,,,,,,,,,
+2041,2014,Wyoming,,,,,,,,,,
+2042,2015,Alabama,,,,,,,,,,
+2043,2015,Alaska,,,,,,,,,,
+2044,2015,Arizona,,,,,,,,,,
+2045,2015,Arkansas,,,,,,,,,,
+2046,2015,California,,,,,,,,,,
+2047,2015,Colorado,,,,,,,,,,
+2048,2015,Connecticut,,,,,,,,,,
+2049,2015,Delaware,,,,,,,,,,
+2050,2015,District of Columbia,,,,,,,,,,
+2051,2015,Florida,,,,,,,,,,
+2052,2015,Georgia,,,,,,,,,,
+2053,2015,Hawaii,,,,,,,,,,
+2054,2015,Idaho,,,,,,,,,,
+2055,2015,Illinois,,,,,,,,,,
+2056,2015,Indiana,,,,,,,,,,
+2057,2015,Iowa,,,,,,,,,,
+2058,2015,Kansas,,,,,,,,,,
+2059,2015,Kentucky,,,,,,,,,,
+2060,2015,Louisiana,,,,,,,,,,
+2061,2015,Maine,,,,,,,,,,
+2062,2015,Maryland,,,,,,,,,,
+2063,2015,Massachusetts,,,,,,,,,,
+2064,2015,Michigan,,,,,,,,,,
+2065,2015,Minnesota,,,,,,,,,,
+2066,2015,Mississippi,,,,,,,,,,
+2067,2015,Missouri,,,,,,,,,,
+2068,2015,Montana,,,,,,,,,,
+2069,2015,Nebraska,,,,,,,,,,
+2070,2015,Nevada,,,,,,,,,,
+2071,2015,New Hampshire,,,,,,,,,,
+2072,2015,New Jersey,,,,,,,,,,
+2073,2015,New Mexico,,,,,,,,,,
+2074,2015,New York,,,,,,,,,,
+2075,2015,North Carolina,,,,,,,,,,
+2076,2015,North Dakota,,,,,,,,,,
+2077,2015,Ohio,,,,,,,,,,
+2078,2015,Oklahoma,,,,,,,,,,
+2079,2015,Oregon,,,,,,,,,,
+2080,2015,Pennsylvania,,,,,,,,,,
+2081,2015,Rhode Island,,,,,,,,,,
+2082,2015,South Carolina,,,,,,,,,,
+2083,2015,South Dakota,,,,,,,,,,
+2084,2015,Tennessee,,,,,,,,,,
+2085,2015,Texas,,,,,,,,,,
+2086,2015,Utah,,,,,,,,,,
+2087,2015,Vermont,,,,,,,,,,
+2088,2015,Virginia,,,,,,,,,,
+2089,2015,Washington,,,,,,,,,,
+2090,2015,West Virginia,,,,,,,,,,
+2091,2015,Wisconsin,,,,,,,,,,
+2092,2015,Wyoming,,,,,,,,,,
