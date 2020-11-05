@@ -1,4 +1,4 @@
-year,state,state_po,state_fips,state_cen,state_ic,office,candidate_detail,candidate,party_detail,party,writein,candidatevotes,totalvotes
+Year,State,state_po,state_fips,state_cen,state_ic,office,candidate_detail,candidate,party_detail,party,writein,candidatevotes,totalvotes
 1976,Alabama,AL,1,63,41,US President,"Carter, Jimmy",Jimmy Carter,democrat,Democrat,FALSE,659170,1182850
 1976,Alabama,AL,1,63,41,US President,"Ford, Gerald",Gerald Ford,republican,Republican,FALSE,504070,1182850
 1976,Alabama,AL,1,63,41,US President,"Maddox, Lester",Other,american independent party,Other,FALSE,9198,1182850
